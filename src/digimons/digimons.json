@@ -1743,7 +1743,8 @@
     {
       "name": "MRGaogamon",
       "tree": "Wanyamon",
-      "stage": "Mega"
+      "stage": "Mega",
+      "rank":"D+"
     },
     {
       "name": "DMGaogamon",

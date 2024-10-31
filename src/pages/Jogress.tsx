@@ -27,7 +27,7 @@ export function Jogress() {
                 <DialogTrigger>
                   <DigiCard name={d.name} rank={d.rank} />
                 </DialogTrigger>
-                <DialogContent className="bg-gray-800 border-gray-800 max-w-screen-md h-[80%] flex flex-col">
+                <DialogContent className="bg-gray-800 border-gray-800 max-w-screen-md h-[80%] flex flex-col overflow-auto scrollbar-hide">
                   <DialogTitle className="flex justify-center items-center bg-gray-400/10 p-3 mt-3 gap-4 relative">
                     <img
                       src={`/digimons_images/${d.name}.png`}
@@ -36,7 +36,7 @@ export function Jogress() {
                     <span>{d.name} DNA Digivolution</span>
                     {d.rank && (
                       <div> 
-                        <Ranker rank={d.rank} className="h-[20px]"/>
+                        <Ranker rank={d.rank} className="h-[20px] mt-1 mr-1"/>
                       </div>
                     )}
                   </DialogTitle>
