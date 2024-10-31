@@ -1,0 +1,44 @@
+{
+  "In-Training":[
+    {
+      "name":"N/A",
+      "requirements":[]
+    }
+  ],
+  "Rookie":[
+    {
+      "name":"Biyomon",
+      "requirements":["LV 8"]
+    }
+  ],
+  "Champion":[
+    {
+      "name":"Birdramon",
+      "requirements":["LV 19","friend 60%"]
+    },
+    {
+      "name":"Saberdramon",
+      "requirements":["LV 18","SPD 95","BRD 210"]
+    }
+  ],
+  "Ultimate":[
+    {
+      "name":"Garudamon",
+      "requirements":["LV 32","friend 80%","BRD 2700"]
+    },
+    {
+      "name":"Karatenmon",
+      "requirements":["LV 33","SPT 170"]
+    }
+  ],
+  "Mega":[
+    {
+      "name":"Gryphonmon",
+      "requirements":["LV 47","ATK 240","BST 8000"]
+    },
+    {
+      "name":"N/A",
+      "requirements":[]
+    }
+  ]
+}

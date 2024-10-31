@@ -1,0 +1,44 @@
+{
+  "In-Training": [
+    {
+      "name": "N/A",
+      "requirements": []
+    }
+  ],
+  "Rookie": [
+    {
+      "name": "ToyAgumon",
+      "requirements": ["LV 10"]
+    }
+  ],
+  "Champion": [
+    {
+      "name": "Tankmon",
+      "requirements": ["LV 19","ATK 110"]
+    },
+    {
+      "name": "Deputymon",
+      "requirements": ["LV 22","Friendship 70%","MAC 600"]
+    }
+  ],
+  "Ultimate": [
+    {
+      "name": "MetalMamemon",
+      "requirements": ["LV 34","ATK 165","MAC 3300"]
+    },
+    {
+      "name": "MameTyramon",
+      "requirements": ["LV 37","DEF 170","DRG 3900"]
+    }
+  ],
+  "Mega": [
+    {
+      "name": "PrinceMamemon",
+      "requirements": ["LV 46","SPT 220","MAC 9300"]
+    },
+    {
+      "name": "N/A",
+      "requirements": []
+    }
+  ]
+}

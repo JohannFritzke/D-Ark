@@ -1,0 +1,38 @@
+{
+  "In-Training": [
+    {
+      "name": "N/A",
+      "requirements": []
+    }
+  ],
+  "Rookie": [
+    {
+      "name": "Hawkmon",
+      "requirements": [
+        "LV 10",
+        "Friend 70%"
+      ]
+    }
+  ],
+  "Champion": [
+    {
+      "name": "Aquilamon",
+      "requirements": [
+        "LV 20",
+        "ATK 105"
+      ]
+    }
+  ],
+  "Ultimate": [
+    {
+      "name": "N/A",
+      "requirements": []
+    }
+  ],
+  "Mega": [
+    {
+      "name": "N/A",
+      "requirements": []
+    }
+  ]
+}

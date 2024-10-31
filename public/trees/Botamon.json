@@ -1,0 +1,72 @@
+{
+  "In-Training":[
+    {
+      "name":"Botamon",
+      "requirements":["LV 3"]
+    }
+  ],
+  "Rookie":[
+    {
+      "name":"BlackAgumon",
+      "requirements":["LV 7","ATK 75"]
+    },
+    {
+      "name":"Candlemon",
+      "requirements":["LV 13","DRK 120"]
+    }
+  ],
+  "Champion":[
+    {
+      "name":"Monochromon",
+      "requirements":["LV 19","DRG 220"]
+    },
+    {
+      "name":"DarkTyrannomon",
+      "requirements":["LV 21","ATK 100","DRK 1000"]
+    },
+    {
+      "name":"DarkLizardmon",
+      "requirements":["LV 20","DRK 650"]
+    },
+    {
+      "name":"Flarerizamon",
+      "requirements":["LV 20","DRG 650"]
+    }
+  ],
+  "Ultimate":[
+    {
+      "name":"Vermilimon",
+      "requirements":["LV 37","DEF 175","DRG 3500"]
+    },
+    {
+      "name":"SkullGreymon",
+      "requirements":["LV 42","DRK 7000","got SkullGreymon"]
+    },
+    {
+      "name":"Volcanomon",
+      "requirements":["LV 36","ATK 160","DRK 3400"]
+    },
+    {
+      "name":"N/A",
+      "requirements":[]
+    }
+  ],
+  "Mega":[
+    {
+      "name":"BlackWarGreymon",
+      "requirements":["LV 58","SPT 290","DRK 21000"]
+    },
+    {
+      "name":"Machinedramon",
+      "requirements":["LV 55","ATK 280","got MetalSeadramon"]
+    },
+    {
+      "name":"N/A",
+      "requirements":[]
+    },
+    {
+      "name":"N/A",
+      "requirements":[]
+    }
+  ]
+}

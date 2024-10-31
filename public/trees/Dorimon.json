@@ -1,0 +1,100 @@
+{
+  "In-Training":[
+    {
+      "name":"Dorimon",
+      "requirements":["LV 4"]
+    }
+  ],
+  "Rookie":[
+    {
+      "name":"Dorumon",
+      "requirements":["LV 8","BST 100"]
+    },
+    {
+      "name":"Armadillomon",
+      "requirements":["LV 11","friend 60%"]
+    },
+    {
+      "name":"Shamamon",
+      "requirements":["LV 14","SPT 75"]
+    }
+  ],
+  "Champion":[
+    {
+      "name":"Dorugamon",
+      "requirements":["LV 24","ATK 125","BST 800"]
+    },
+    {
+      "name":"Drimogemon",
+      "requirements":["LV 19","ATK 90","MinAPT 25"]
+    },
+    {
+      "name":"Ankylomon",
+      "requirements":["LV 23","DEF 100","BST 500"]
+    },
+    {
+      "name":"NDrimogemon",
+      "requirements":["LV 19","DEF 90","MinAPT 25"]
+    },
+    {
+      "name":"Fugamon",
+      "requirements":["LV 24","ATK 120","BST 450"]
+    },
+    {
+      "name":"Apemon",
+      "requirements":["LV 26","HOL 750","gotApemon"]
+    }
+  ],
+  "Ultimate":[
+    {
+      "name":"DoruGreymon",
+      "requirements":["LV 38","DRG 4800","Mac 3000"]
+    },
+    {
+      "name":"N/A",
+      "requirements":[]
+    },
+    {
+      "name":"N/A",
+      "requirements":[]
+    },
+    {
+      "name":"N/A",
+      "requirements":[]
+    },
+    {
+      "name":"N/A",
+      "requirements":[]
+    },
+    {
+      "name":"Kyukimon",
+      "requirements":["LV 34","SPD 180","BST 4000"]
+    }
+  ],
+  "Mega":[
+    {
+      "name":"Dorugoramon",
+      "requirements":["LV 54","ATK 265","EX 57000"]
+    },
+    {
+      "name":"N/A",
+      "requirements":[]
+    },
+    {
+      "name":"N/A",
+      "requirements":[]
+    },
+    {
+      "name":"N/A",
+      "requirements":[]
+    },
+    {
+      "name":"N/A",
+      "requirements":[]
+    },
+    {
+      "name":"Kuzuhamon",
+      "requirements":["LV 48","HOL 9000","gotKuzuhamon"]
+    }
+  ]
+}

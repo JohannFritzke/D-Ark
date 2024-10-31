@@ -1,0 +1,36 @@
+{
+  "In-Training": [
+    {
+      "name": "N/A",
+      "requirements": []
+    }
+  ],
+  "Rookie": [
+    {
+      "name": "SnowAgumon",
+      "requirements": ["LV 12"]
+    }
+  ],
+  "Champion": [
+    {
+      "name": "Seadramon",
+      "requirements": ["LV 24","AQN 450"]
+    }
+  ],
+  "Ultimate": [
+    {
+      "name": "MegaSeadramon",
+      "requirements": ["LV 37","ATK 155","AQN 4000"]
+    }
+  ],
+  "Mega": [
+    {
+      "name": "MetalSeadramon",
+      "requirements": ["LV 55","MAC 10000","AQN 11000"]
+    },
+    {
+      "name": "GigaSeadramon",
+      "requirements": ["LV 59","AQN 25000","gotGigaSeadramon"]
+    }
+  ]
+}

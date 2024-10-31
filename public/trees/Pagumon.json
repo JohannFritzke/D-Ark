@@ -1,0 +1,76 @@
+{
+  "In-Training":[
+    {
+      "name":"Pagumon",
+      "requirements":["LV 4"]
+    }
+  ],
+  "Rookie":[
+    {
+      "name":"DemiDevimon",
+      "requirements":["LV 10"]
+    },
+    {
+      "name":"Impmon",
+      "requirements":["LV15","SPT80","DRK490"]
+    }
+  ],
+  "Champion":[
+    {
+      "name":"Devimon",
+      "requirements":["LV 21","DRK 450"]
+    },
+    {
+      "name":"Musyamon",
+      "requirements":["LV 26","ATK 130","DRK 1200"]
+    },
+    {
+      "name":"Vilemon",
+      "requirements":["LV 23","DRK 950"]
+    },
+    {
+      "name":"Wizardmon",
+      "requirements":["LV 25","friend 70%","DRK 700"]
+    }
+  ],
+  "Ultimate":[
+    {
+      "name":"Myotismon",
+      "requirements":["LV 42","SPT 195","DRK 10000"]
+    },
+    {
+      "name":"Vajramon",
+      "requirements":["LV 35","DEF 160","BST 3700"]
+    },
+    {
+      "name":"LadyDevimon",
+      "requirements":["LV 39","ATK 185","DRK 6200"]
+    },
+    {
+      "name":"Mummymon",
+      "requirements":["LV 36","SPT 180","DRK 5100"]
+    }
+  ],
+  "Mega":[
+    {
+      "name":"VNMyotismon",
+      "requirements":["LV 66","BST 6666","allyDemiDevimon"]
+    },
+    {
+      "name":"Zanbamon",
+      "requirements":["LV 47","SPD 240","DRK 13000"]
+    },
+    {
+      "name":"Boltmon",
+      "requirements":["LV 46","MAC 12500","gotBoltmon"]
+    },
+    {
+      "name":"Lilithmon",
+      "requirements":["LV 64","SPT 300","DRK 32000"]
+    },
+    {
+      "name":"Pharaohmon",
+      "requirements":["LV 50","HOL 9000","DRK 9000"]
+    }
+  ]
+}

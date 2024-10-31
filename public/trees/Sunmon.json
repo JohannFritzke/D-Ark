@@ -1,0 +1,32 @@
+{
+  "In-Training": [
+    {
+      "name": "Sunmon",
+      "requirements": ["LV 1","gotSunmon"]
+    }
+  ],
+  "Rookie": [
+    {
+      "name": "Coronamon",
+      "requirements": ["LV 11","Friend 50%"]
+    }
+  ],
+  "Champion": [
+    {
+      "name": "Firamon",
+      "requirements": ["LV 25","Friend 70%","BST 700"]
+    }
+  ],
+  "Ultimate": [
+    {
+      "name": "Flaremon",
+      "requirements": ["LV 40","Friend 80%","SPT 140"]
+    }
+  ],
+  "Mega": [
+    {
+      "name": "Apollomon",
+      "requirements": ["LV 55","Friend 100%","HOL 17500"]
+    }
+  ]
+}

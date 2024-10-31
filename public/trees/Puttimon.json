@@ -1,0 +1,76 @@
+{
+  "In-Training": [
+    {
+      "name": "Puttimon",
+      "requirements": ["LV 3","gotPuttimon"]
+    }
+  ],
+  "Rookie": [
+    {
+      "name": "Salamon",
+      "requirements": ["LV 7"]
+    },
+    {
+      "name": "PwnChessmonW",
+      "requirements": ["LV 11","MAC 200"]
+    },
+    {
+      "name": "Kudamon",
+      "requirements": ["LV15","MinAPT25","gotKudamon"]
+    }
+  ],
+  "Champion": [
+    {
+      "name": "Gatomon",
+      "requirements": ["LV 18","Friendship 70%"]
+    },
+    {
+      "name": "KChessmonW",
+      "requirements": ["LV 21","SPD 100"]
+    },
+    {
+      "name": "Starmon",
+      "requirements": ["LV 24","Friendship 70%","SPT 115"]
+    },
+    {
+      "name": "Reppamon",
+      "requirements": ["LV27","SPD125","HOL 800"]
+    }
+  ],
+  "Ultimate": [
+    {
+      "name": "Angewomon",
+      "requirements": ["LV 35","ATK 160","HOL 2700"]
+    },
+    {
+      "name": "BPChessmon",
+      "requirements": ["LV 34","ATK 175"]
+    },
+    {
+      "name": "SPStarmon",
+      "requirements": ["LV 41","ATK 190","HOL 8800"]
+    },
+    {
+      "name": "Tyilinmon",
+      "requirements": ["LV43","SPT210","HOL 7000"]
+    }
+  ],
+  "Mega": [
+    {
+      "name": "Ophanimon",
+      "requirements": ["LV 64","SPT 35","HOL 27000"]
+    },
+    {
+      "name": "KingChessmon",
+      "requirements": ["LV 50","MinAPT 55","MAC 13000"]
+    },
+    {
+      "name": "N/A",
+      "requirements": []
+    },
+    {
+      "name": "Sleipmon",
+      "requirements": ["LV65","ATK370","HOL 48000"]
+    }
+  ]
+}

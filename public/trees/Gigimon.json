@@ -1,0 +1,56 @@
+{
+  "In-Training":[
+    {
+      "name":"Gigimon",
+      "requirements":["LV 5"]
+    }
+  ],
+  "Rookie":[
+    {
+      "name":"Guilmon",
+      "requirements":["LV 11","gotGuilmon"]
+    }
+  ],
+  "Champion":[
+    {
+      "name":"Growlmon",
+      "requirements":["LV 21","ATK 105","gotGuilmon"]
+    },
+    {
+      "name":"Tyrannomon",
+      "requirements":["LV 21","DRG 340"]
+    }
+  ],
+  "Ultimate":[
+    {
+      "name":"WarGrowlmon",
+      "requirements":["LV 36","SPT 130","MAC 2100"]
+    },
+    {
+      "name":"BWGrowlmon",
+      "requirements":["LV 40","DRK 3600","MAC 3300"]
+    },
+    {
+      "name":"Triceramon",
+      "requirements":["LV 33","DEF 135","DRG 2000"]
+    }
+  ],
+  "Mega":[
+    {
+      "name":"Gallantmon",
+      "requirements":["LV 60","Friendship 90%","gotMegidramon"]
+    },
+    {
+      "name":"Megidramon",
+      "requirements":["LV 48","DRK 9000","gotGuilmon"]
+    },
+    {
+      "name":"N/A",
+      "requirements":[]
+    },
+    {
+      "name":"Cannondramon",
+      "requirements":["LV 47","ATK 255","MAC 12500"]
+    }
+  ]
+}

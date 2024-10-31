@@ -1,0 +1,84 @@
+{
+  "In-Training": [
+    {
+      "name": "Wanyamon",
+      "requirements": ["LV 3"]
+    }
+  ],
+  "Rookie": [
+    {
+      "name": "Gaomon",
+      "requirements": ["LV 7","Friend 60%"]
+    },
+    {
+      "name": "Kumamon",
+      "requirements": ["LV 10"]
+    }
+  ],
+  "Champion": [
+    {
+      "name": "Gaogamon",
+      "requirements": ["LV 17","SPD 90","BST 250"]
+    },
+    {
+      "name": "Leomon",
+      "requirements": ["LV 28","ATK 150","SPT 130"]
+    },
+    {
+      "name": "Grizzmon",
+      "requirements": ["LV 19","BST 390"]
+    },
+    {
+      "name": "Mojyamon",
+      "requirements": ["LV 21","BST 220","AQN 180"]
+    }
+  ],
+  "Ultimate": [
+    {
+      "name": "MGaogamon",
+      "requirements": ["LV 33","Friend 80%","MAC 2800"]
+    },
+    {
+      "name": "GrapLeomon",
+      "requirements": ["LV 39","SPD 190","MAC 5500"]
+    },
+    {
+      "name": "Monzaemon",
+      "requirements": ["LV 33","Friend 80%","HOL 4000"]
+    },
+    {
+      "name": "Pandamon",
+      "requirements": ["LV 36","BST 8000","gotPandamon"]
+    },
+    {
+      "name": "Mammothmon",
+      "requirements": ["LV 35","ATK 180","DEF 185"]
+    }
+  ],
+  "Mega": [
+    {
+      "name": "MRGaogamon",
+      "requirements": ["LV 53","ATK 235","SPD 280"]
+    },
+    {
+      "name": "DMGaogamon",
+      "requirements": ["LV 60","MAC 30000","gotDMGaogamon"]
+    },
+    {
+      "name": "SaberLeomon",
+      "requirements": ["LV 57","ATK 290","BST 20000"]
+    },
+    {
+      "name": "Babamon",
+      "requirements": ["LV 48","SPT 220","HOL 8000"]
+    },
+    {
+      "name": "N/A",
+      "requirements": []
+    },
+    {
+      "name": "SMammothmon",
+      "requirements": ["LV 49","DRK 6000","BST 8000"]
+    }
+  ]
+}

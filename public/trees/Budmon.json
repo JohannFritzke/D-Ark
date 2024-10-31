@@ -1,0 +1,175 @@
+{
+  "In-Training": [
+    {
+      "name": "Budmon",
+      "requirements": [
+        "LV 2"
+      ]
+    }
+  ],
+  "Rookie": [
+    {
+      "name": "DoKunemon",
+      "requirements": [
+        "LV 8",
+        "INS 130"
+      ]
+    },
+    {
+      "name": "Mushroomon",
+      "requirements": [
+        "LV 13",
+        "ATK 65"
+      ]
+    },
+    {
+      "name": "Lalamon",
+      "requirements": [
+        "LV 7",
+        "Friend 60%"
+      ]
+    }
+  ],
+  "Champion": [
+    {
+      "name": "Kuwagamon",
+      "requirements": [
+        "LV 20",
+        "INS 380"
+      ]
+    },
+    {
+      "name": "Dokugumon",
+      "requirements": [
+        "LV 24",
+        "DRK 450"
+      ]
+    },
+    {
+      "name": "Roachmon",
+      "requirements": [
+        "LV 17",
+        "SPD 95"
+      ]
+    },
+    {
+      "name": "Ninjamon",
+      "requirements": [
+        "LV 22",
+        "Friend 70%",
+        "SPD 115"
+      ]
+    },
+    {
+      "name": "Kogamon",
+      "requirements": [
+        "LV 22",
+        "ATK 105",
+        "SPD 110"
+      ]
+    },
+    {
+      "name": "Sunflowmon",
+      "requirements": [
+        "LV 18",
+        "Friend 70%",
+        "INS 380"
+      ]
+    },
+    {
+      "name": "RedVeggimon",
+      "requirements": [
+        "LV 22",
+        "MinAPT 29"
+      ]
+    }
+  ],
+  "Ultimate": [
+    {
+      "name": "Okuwamon",
+      "requirements": [
+        "LV 35",
+        "DEF 145",
+        "INS 4000"
+      ]
+    },
+    {
+      "name": "Arukenimon",
+      "requirements": [
+        "LV 40",
+        "SPT 220",
+        "DRK 7500"
+      ]
+    },
+    {
+      "name": "N/A",
+      "requirements": []
+    },
+    {
+      "name": "N/A",
+      "requirements": []
+    },
+    {
+      "name": "N/A",
+      "requirements": []
+    },
+    {
+      "name": "Lilamon",
+      "requirements": [
+        "LV 35",
+        "Friend 80%",
+        "SPD 135"
+      ]
+    },
+    {
+      "name": "N/A",
+      "requirements": []
+    }
+  ],
+  "Mega": [
+    {
+      "name": "GKuwagamon",
+      "requirements": [
+        "LV 49",
+        "ATK 255",
+        "INS 17000"
+      ]
+    },
+    {
+      "name": "N/A",
+      "requirements": []
+    },
+    {
+      "name": "N/A",
+      "requirements": []
+    },
+    {
+      "name": "N/A",
+      "requirements": []
+    },
+    {
+      "name": "N/A",
+      "requirements": []
+    },
+    {
+      "name": "Rosemon",
+      "requirements": [
+        "LV 50",
+        "ATK 225",
+        "INS 17000"
+      ]
+    },
+    {
+      "name": "Lotusmon",
+      "requirements": [
+        "LV 57",
+        "INS 29000",
+        "gotRosemon"
+      ]
+    },
+    {
+      "name": "N/A",
+      "requirements": []
+    }
+  ]
+}

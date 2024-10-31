@@ -1,0 +1,32 @@
+{
+  "In-Training":[
+    {
+      "name":"Moonmon",
+      "requirements":["LV 1","gotMoonmon"]
+    }
+  ],
+  "Rookie":[
+    {
+      "name":"Lunamon",
+      "requirements":["LV 9","friend 50%"]
+    }
+  ],
+  "Champion":[
+    {
+      "name":"Lekismon",
+      "requirements":["LV 19","friend 70%","DRK 330"]
+    }
+  ],
+  "Ultimate":[
+    {
+      "name":"Crescemon",
+      "requirements":["LV 33","friend 80%","DRK 2800"]
+    }
+  ],
+  "Mega":[
+    {
+      "name":"Dianamon",
+      "requirements":["LV 50","friend 100%","DRK 14500"]
+    }
+  ]
+}

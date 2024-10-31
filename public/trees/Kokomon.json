@@ -1,0 +1,48 @@
+{
+  "In-Training":[
+    {
+      "name":"Kokomon",
+      "requirements":["LV 4"]
+    }
+  ],
+  "Rookie":[
+    {
+      "name":"Lopmon",
+      "requirements":["LV 9"]
+    }
+  ],
+  "Champion":[
+    {
+      "name":"Centarumon",
+      "requirements":["LV 20","MAC 480"]
+    },
+    {
+      "name":"Wendigomon",
+      "requirements":["LV 29","DRK 1800"]
+    }
+  ],
+  "Ultimate":[
+    {
+      "name":"BRapidmon",
+      "requirements":["LV 33","SPD 145","MAC 3500"]
+    },
+    {
+      "name":"Antylamon",
+      "requirements":["LV 41","Friendship 80%","SPT 190"]
+    }
+  ],
+  "Mega":[
+    {
+      "name":"BSGargomon",
+      "requirements":["LV 50","DRK 8000","MAC 8000"]
+    },
+    {
+      "name":"CherubimonG",
+      "requirements":["LV 62","SPT 360","HOL 30000"]
+    },
+    {
+      "name":"CherubimonE",
+      "requirements":["LV 62","ATK 300","DRK 23000"]
+    }
+  ]
+}

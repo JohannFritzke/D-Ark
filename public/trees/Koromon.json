@@ -1,0 +1,64 @@
+{
+  "In-Training": [
+    {
+      "name": "Koromon",
+      "requirements": ["LV 3"]
+    }
+  ],
+  "Rookie": [
+    {
+      "name": "Agumon",
+      "requirements": ["LV 7"]
+    },
+    {
+      "name": "DotAgumon",
+      "requirements": ["LV 30","Min APT 45","Got DotAgumon"]
+    }
+  ],
+  "Champion": [
+    {
+      "name": "GeoGreymon",
+      "requirements": ["LV 20","Friend 60%","DEF 90"]
+    },
+    {
+      "name": "Greymon",
+      "requirements": ["LV 18","DRG 280"]
+    },
+    {
+      "name": "N/A",
+      "requirements": []
+    }
+  ],
+  "Ultimate": [
+    {
+      "name": "RiseGreymon",
+      "requirements": ["LV 35","DRG 2500","MAC 2500"]
+    },
+    {
+      "name": "MetalGreymon",
+      "requirements": ["LV 34","Friend 70%","DRG 3000"]
+    },
+    {
+      "name": "N/A",
+      "requirements": []
+    }
+  ],
+  "Mega": [
+    {
+      "name": "SNGreymon",
+      "requirements": ["LV 54","ATK 270","HOL 13000"]
+    },
+    {
+      "name": "DSGreymon",
+      "requirements": ["LV 60","MAC 30000","GotDSGreymon"]
+    },
+    {
+      "name": "WarGreymon",
+      "requirements": ["LV 52","Friend 90%","gotAgumon"]
+    },
+    {
+      "name": "N/A",
+      "requirements": []
+    }
+  ]
+}

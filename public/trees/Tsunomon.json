@@ -1,0 +1,84 @@
+{
+  "In-Training": [
+    {
+      "name": "Tsunomon",
+      "requirements": ["LV 3"]
+    }
+  ],
+  "Rookie": [
+    {
+      "name": "Gabumon",
+      "requirements": ["LV 8"]
+    },
+    {
+      "name": "Goburimon",
+      "requirements": ["LV 12","ATK 60"]
+    }
+  ],
+  "Champion": [
+    {
+      "name": "Garurumon",
+      "requirements": ["LV 19","Friendship 60%","ATK 100"]
+    },
+    {
+      "name": "JMojyamon",
+      "requirements": ["LV 17","BST 350"]
+    },
+    {
+      "name": "Ogremon",
+      "requirements": ["LV 26","ATK 120","BST 750"]
+    },
+    {
+      "name": "Minotarumon",
+      "requirements": ["LV 23","DEF 95","BST 360"]
+    },
+    {
+      "name": "Nanimon",
+      "requirements": ["LV 20","Friendship 70%","MinAPT 28"]
+    }
+  ],
+  "Ultimate": [
+    {
+      "name": "WGarurumon",
+      "requirements": ["LV 35","SPD 170","BST 4500"]
+    },
+    {
+      "name": "N/A",
+      "requirements": []
+    },
+    {
+      "name": "WGarurumonB",
+      "requirements": ["LV 41","SPD 190","DRK 6500"]
+    },
+    {
+      "name": "Etemon",
+      "requirements": ["LV 34","SPT 135","BST 3800"]
+    },
+    {
+      "name": "N/A",
+      "requirements": []
+    }
+  ],
+  "Mega": [
+    {
+      "name": "MGarurumon",
+      "requirements": ["LV 52","Friendship 90%","gotGabumon"]
+    },
+    {
+      "name": "N/A",
+      "requirements": []
+    },
+    {
+      "name": "Gulfmon",
+      "requirements": ["LV 56","DRK 15000","BST 10000"]
+    },
+    {
+      "name": "MetalEtemon",
+      "requirements": ["LV 46","DEF 200","BST 10000"]
+    },
+    {
+      "name": "N/A",
+      "requirements": []
+    }
+  ]
+}

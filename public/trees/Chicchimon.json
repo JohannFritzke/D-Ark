@@ -1,0 +1,72 @@
+{
+  "In-Training":[
+    {
+      "name":"Chicchimon",
+      "requirements":["LV 5","gotChicchimon"]
+    }
+  ],
+  "Rookie":[
+    {
+      "name":"Penguinmon",
+      "requirements":["LV 10","AQN 100"]
+    },
+    {
+      "name":"Muchomon",
+      "requirements":["LV 11"]
+    }
+  ],
+  "Champion":[
+    {
+      "name":"Kiwimon",
+      "requirements":["LV 18","DEF 80","INS 400"]
+    },
+    {
+      "name":"Kokatorimon",
+      "requirements":["LV 21","Friendship 70%","DRK 370"]
+    },
+    {
+      "name":"Diatrymon",
+      "requirements":["LV 29","DEF 150","BRD 2400"]
+    },
+    {
+      "name":"Akatorimon",
+      "requirements":["LV 21","Friendship 70%","BRD 300"]
+    }
+  ],
+  "Ultimate":[
+    {
+      "name":"Deramon",
+      "requirements":["LV 36","INS 4000"]
+    },
+    {
+      "name":"N/A",
+      "requirements":[]
+    },
+    {
+      "name":"Sinduramon",
+      "requirements":["LV 40","BRD 8000","gotSinduramon"]
+    },
+    {
+      "name":"Parrotmon",
+      "requirements":["LV 35","HOL 2200","BRD 3300"]
+    }
+  ],
+  "Mega":[
+    {
+      "name":"Phoenixmon",
+      "requirements":["LV 52","HOL 11000","BRD 11000"]
+    },
+    {
+      "name":"N/A",
+      "requirements":[]
+    },
+    {
+      "name":"N/A",
+      "requirements":[]
+    },
+    {
+      "name":"Eaglemon",
+      "requirements":["LV 51","DEF 265","HOL 7500"]
+    }
+  ]
+}

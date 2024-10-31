@@ -1,0 +1,56 @@
+{
+  "In-Training": [
+    {
+      "name": "Tsumemon",
+      "requirements": ["LV 9","got Tsumemon"]
+    }
+  ],
+  "Rookie": [
+    {
+      "name": "Keramon",
+      "requirements": ["LV 18","DRK 450","Got Keramon"]
+    },
+    {
+      "name": "Dracmon",
+      "requirements": ["LV 9"]
+    }
+  ],
+  "Champion": [
+    {
+      "name": "Kurisarimon",
+      "requirements": ["LV 27","DEF 110","got Keramon"]
+    },
+    {
+      "name": "Sangloupmon",
+      "requirements": ["LV 19","BST 500"]
+    }
+  ],
+  "Ultimate": [
+    {
+      "name": "Infermon",
+      "requirements": ["LV 36","ATK 200"]
+    },
+    {
+      "name": "Argomon (Ultimate)",
+      "requirements": ["LV 48","SPT 320","INS 20000"]
+    },
+    {
+      "name": "Matadormon",
+      "requirements": ["LV 35","SPD 175","DRK 3900"]
+    }
+  ],
+  "Mega": [
+    {
+      "name": "Diaboromon",
+      "requirements": ["LV 45","DRK 25000","got Keramon"]
+    },
+    {
+      "name": "Argomon (Mega)",
+      "requirements": ["LV 62","ATK 400","DRK 40000"]
+    },
+    {
+      "name": "Piedmon",
+      "requirements": ["LV55","gotPiedmon","gotPuppetmon"]
+    }
+  ]
+}

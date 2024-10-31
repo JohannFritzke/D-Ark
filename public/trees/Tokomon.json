@@ -1,0 +1,68 @@
+{
+  "In-Training": [
+    {
+      "name": "Tokomon",
+      "requirements": ["LV 4"]
+    }
+  ],
+  "Rookie": [
+    {
+      "name": "Patamon",
+      "requirements": ["LV 8","Friendship 50%"]
+    },
+    {
+      "name": "Falcomon",
+      "requirements": ["LV 12","Friendship 60%"]
+    },
+    {
+      "name": "DFalcomon",
+      "requirements": ["LV 30","MinAPT 45","got Dfalcomon"]
+    }
+  ],
+  "Champion": [
+    {
+      "name": "Angemon",
+      "requirements": ["LV 19","Friendship 70%","Holy 300"]
+    },
+    {
+      "name": "Peckmon",
+      "requirements": ["LV 20","SPD 100"]
+    },
+    {
+      "name": "N/A",
+      "requirements": []
+    }
+  ],
+  "Ultimate": [
+    {
+      "name": "MAngemon",
+      "requirements": ["LV 34","SPT 160","HOL 3100"]
+    },
+    {
+      "name": "Yatagaramon",
+      "requirements": ["LV 37","Friendship 80%","BRD 3500"]
+    },
+    {
+      "name": "N/A",
+      "requirements": []
+    }
+  ],
+  "Mega": [
+    {
+      "name": "SLAngemon",
+      "requirements": ["LV 48","ATK 250","MAC 8500"]
+    },
+    {
+      "name": "Seraphimon",
+      "requirements": ["LV 66","SPT 380","HOL 77777"]
+    },
+    {
+      "name": "Ravemon",
+      "requirements": ["LV 50","SPD 255","MAC 10000"]
+    },
+    {
+      "name": "N/A",
+      "requirements": []
+    }
+  ]
+}

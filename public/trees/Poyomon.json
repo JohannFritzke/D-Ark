@@ -1,0 +1,76 @@
+{
+  "In-Training":[
+    {
+      "name":"Poyomon",
+      "requirements":["LV 3"]
+    }
+  ],
+  "Rookie":[
+    {
+      "name":"Gomamon",
+      "requirements":["LV 11","AQN 100"]
+    },
+    {
+      "name":"Kamemon",
+      "requirements":["LV 9"]
+    },
+    {
+      "name":"Crabmon",
+      "requirements":["LV 16","DEF 75"]
+    }
+  ],
+  "Champion":[
+    {
+      "name":"Ikkakumon",
+      "requirements":["LV 21","Friendship 70%"]
+    },
+    {
+      "name":"Gawappamon",
+      "requirements":["LV 19","MAC 370"]
+    },
+    {
+      "name":"Tortamon",
+      "requirements":["LV 23","DEF 110"]
+    },
+    {
+      "name":"Ebidramon",
+      "requirements":["LV 27","DEF 140","DRG 1100"]
+    }
+  ],
+  "Ultimate":[
+    {
+      "name":"Zudomon",
+      "requirements":["LV 32","ATK 160","AQN 4100"]
+    },
+    {
+      "name":"Shaujinmon",
+      "requirements":["LV 34","SPT 155","AQN 3600"]
+    },
+    {
+      "name":"Brachiomon",
+      "requirements":["LV 38","AQN 7500","got Brachiomon"]
+    },
+    {
+      "name":"N/A",
+      "requirements":[]
+    }
+  ],
+  "Mega":[
+    {
+      "name":"Vikemon",
+      "requirements":["","",""]
+    },
+    {
+      "name":"JumboGamemon",
+      "requirements":["LV 51","ATK 270","MAC 9600"]
+    },
+    {
+      "name":"Preciomon",
+      "requirements":["LV 47","AQN 17500"]
+    },
+    {
+      "name":"N/A",
+      "requirements":[]
+    }
+  ]
+}

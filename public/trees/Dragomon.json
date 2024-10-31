@@ -1,0 +1,32 @@
+{
+  "In-Training": [
+    {
+      "name": "N/A",
+      "requirements": []
+    }
+  ],
+  "Rookie": [
+    {
+      "name": "N/A",
+      "requirements": []
+    }
+  ],
+  "Champion": [
+    {
+      "name": "N/A",
+      "requirements": []
+    }
+  ],
+  "Ultimate": [
+    {
+      "name": "Dragomon",
+      "requirements": ["Lv33+","Dark EXP 3800+","Spirit 200+"]
+    }
+  ],
+  "Mega": [
+    {
+      "name": "Neptunemon",
+      "requirements": ["LV62","Spirit 340","Aquan EXP 44000"]
+    }
+  ]
+}

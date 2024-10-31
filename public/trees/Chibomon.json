@@ -1,0 +1,116 @@
+{
+  "In-Training": [
+    {
+      "name": "Chibomon",
+      "requirements": [
+        "LV 4",
+        "gotChibomon"
+      ]
+    }
+  ],
+  "Rookie": [
+    {
+      "name": "Veemon",
+      "requirements": [
+        "LV 10",
+        "Friendship 50%"
+      ]
+    },
+    {
+      "name": "Monodramon",
+      "requirements": [
+        "LV 15",
+        "DRG 300"
+      ]
+    }
+  ],
+  "Champion": [
+    {
+      "name": "Veedramon",
+      "requirements": [
+        "LV 18",
+        "ATK 90",
+        "DRG 340"
+      ]
+    },
+    {
+      "name": "ExVeemon",
+      "requirements": [
+        "LV 23",
+        "ATK 120",
+        "SPT 115"
+      ]
+    },
+    {
+      "name": "Dinohumon",
+      "requirements": [
+        "LV24",
+        "DRG 900"
+      ]
+    },
+    {
+      "name": "Airdramon",
+      "requirements": [
+        "LV 21",
+        "EX 4000",
+        "gotAirdramon"
+      ]
+    }
+  ],
+  "Ultimate": [
+    {
+      "name": "ARVeedramon",
+      "requirements": [
+        "LV 36",
+        "ATK 190",
+        "DRG 4100"
+      ]
+    },
+    {
+      "name": "N/A",
+      "requirements": []
+    },
+    {
+      "name": "Cyberdramon",
+      "requirements": [
+        "LV38",
+        "ATK 195",
+        "MAC 3800"
+      ]
+    },
+    {
+      "name": "Megadramon",
+      "requirements": [
+        "LV 34",
+        "MAC 3600"
+      ]
+    }
+  ],
+  "Mega": [
+    {
+      "name": "Goldramon",
+      "requirements": [
+        "LV 63",
+        "HOL 45000",
+        "gotAirdramon"
+      ]
+    },
+    {
+      "name": "N/A",
+      "requirements": []
+    },
+    {
+      "name": "Justimon",
+      "requirements": [
+        "LV 51",
+        "SPT 250",
+        "MAC 18000"
+      ]
+    },
+    {
+      "name": "Darkdramon",
+      "requirements": [
+        "LV 52","DRK 12000","MAC 9000"]
+      }
+    ]
+  }

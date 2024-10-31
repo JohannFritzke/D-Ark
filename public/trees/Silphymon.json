@@ -1,0 +1,32 @@
+{
+  "In-Training": [
+    {
+      "name": "N/A",
+      "requirements": []
+    }
+  ],
+  "Rookie": [
+    {
+      "name": "N/A",
+      "requirements": []
+    }
+  ],
+  "Champion": [
+    {
+      "name": "N/A",
+      "requirements": []
+    }
+  ],
+  "Ultimate": [
+    {
+      "name": "Silphymon",
+      "requirements": ["LV35","Bird EXP 7000","Speed 190"]
+    }
+  ],
+  "Mega": [
+    {
+      "name": "Valkyrimon",
+      "requirements": ["LV52","Speed 260","Holy EXP 12000"]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "In-Training": [
+    {
+      "name": "N/A",
+      "requirements": []
+    }
+  ],
+  "Rookie": [
+    {
+      "name": "ToyAgumonBlack",
+      "requirements": ["LV 10"]
+    }
+  ],
+  "Champion": [
+    {
+      "name": "Mekanorimon",
+      "requirements": ["LV 20","MAC 410"]
+    }
+  ],
+  "Ultimate": [
+    {
+      "name": "EXTyrannomon",
+      "requirements": ["LV 34","DRK 4500"]
+    }
+  ],
+  "Mega": [
+    {
+      "name": "Ghoulmon",
+      "requirements": ["LV 49","DEF 230","SPT 230"]
+    }
+  ]
+}

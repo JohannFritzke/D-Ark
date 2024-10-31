@@ -1,0 +1,88 @@
+{
+  "In-Training":[
+    {
+      "name":"Kapurimon",
+      "requirements":["LV 5"]
+    }
+  ],
+  "Rookie":[
+    {
+      "name":"PwnChessmonB",
+      "requirements":["LV 11","MAC 200"]
+    },
+    {
+      "name":"Kotemon",
+      "requirements":["LV 12","ATK 60"]
+    },
+    {
+      "name":"Hagurumon",
+      "requirements":["LV 10","Friend 50%"]
+    }
+  ],
+  "Champion":[
+    {
+      "name":"KChessmonB",
+      "requirements":["LV 21","SPD 100"]
+    },
+    {
+      "name":"Omekamon",
+      "requirements":["LV 22","MAC 580"]
+    },
+    {
+      "name":"PltSukamon",
+      "requirements":["LV 25","DEF 120"]
+    },
+    {
+      "name":"Guardromon",
+      "requirements":["LV 20","DEF105"]
+    },
+    {
+      "name":"Hookmon",
+      "requirements":["LV 22","MAC 450","AQN 300"]
+    }
+  ],
+  "Ultimate":[
+    {
+      "name":"RookChessmon",
+      "requirements":["LV 34","DEF 175"]
+    },
+    {
+      "name":"Tekkamon",
+      "requirements":["LV 37","ATK 170","SPD 150"]
+    },
+    {
+      "name":"N/A",
+      "requirements":[]
+    },
+    {
+      "name":"Andromon",
+      "requirements":["LV35","Friend 80%","ATK165"]
+    },
+    {
+      "name":"N/A",
+      "requirements":[]
+    }
+  ],
+  "Mega":[
+    {
+      "name":"QUChessmon",
+      "requirements":["LV 50","SPT 220","MAC 13000"]
+    },
+    {
+      "name":"Puppetmon",
+      "requirements":["LV 55","MAC 20000","GOT Machdramon"]
+    },
+    {
+      "name":"N/A",
+      "requirements":[]
+    },
+    {
+      "name":"HiAndromon",
+      "requirements":["LV 50","SPT 250","MAC 15000"]
+    },
+    {
+      "name":"N/A",
+      "requirements":[]
+    }
+  ]
+}

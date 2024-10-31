@@ -1,0 +1,61 @@
+{
+  "In-Training": [
+    {
+      "name": "N/A",
+      "requirements": []
+    }
+  ],
+  "Rookie": [
+    {
+      "name": "Syakomon",
+      "requirements": ["LV 9"]
+    }
+  ],
+  "Champion": [
+    {
+      "name": "KaraNumemon",
+      "requirements": ["LV 26","DEF 135","MinAPT 30"]
+    },
+    {
+      "name": "Coelamon",
+      "requirements": ["LV 18","ATK 95","AQN 410"]
+    },
+    {
+      "name": "Shellmon",
+      "requirements": ["LV 23","BST 430"]
+    }
+  ],
+  "Ultimate": [
+    {
+      "name": "Digitamamon",
+      "requirements": ["LV 38","HOL 3100","gotTapirmon"]
+    },
+    {
+      "name": "Scorpiomon",
+      "requirements": ["LV 31","SPT 130","AQN 3200"]
+    },
+    {
+      "name": "N/A",
+      "requirements": []
+    }
+  ],
+  "Mega": [
+    {
+      "name": "Lampmon",
+      "requirements": ["LV 49","DEF 220","HOL 11500"]
+    },
+    {
+      "name": "Devitamamon",
+      "requirements": ["LV 50","ATK 250","DRK 18000"]
+    },
+    {
+      "name": "Pukumon",
+      "requirements": ["LV 45","ATK 200","AQN 9900"]
+    },
+    {
+      "name": "N/A",
+      "requirements": []
+    }
+    
+  ]
+}

@@ -1,0 +1,35 @@
+.bg-rank {
+  background-size: 200% auto;
+  color: white;
+  font-weight: bold;
+  text-shadow: 2px 2px 1px rgba(0, 0, 0, 1);
+}
+.rank-A{
+  background: linear-gradient(121.7deg, rgb(41, 116, 250) 22.9%, rgb(67, 212, 255) 69%);
+}
+.rank-B{
+  background: linear-gradient(110.7deg, rgb(9, 154, 151) 6.3%, rgb(21, 205, 168) 90.6%);
+}
+.rank-C{
+  background: linear-gradient(109.6deg, rgba(119, 44, 232, 0.68) 11.5%, rgb(119, 44, 232) 91.2%);
+}
+.rank-D{
+  background: linear-gradient(to right, #868f96 0%, #596164 100%);
+}
+
+.rank-S {
+  background: linear-gradient(to right, #BF953F, #FCF6BA, #B38728, #FBF5B7, #AA771C);
+  background-size: 200% auto;
+  color: white;
+  font-weight: bold;
+  animation: shine 3s linear infinite;
+}
+@keyframes shine {
+  0% {
+    background-position: 0% center; 
+  }
+  100% {
+    background-position: 100% center; /* Mova para a direita continuamente */
+  }
+}
+

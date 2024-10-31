@@ -1,0 +1,44 @@
+{
+  "In-Training": [
+    {
+      "name": "N/A",
+      "requirements": []
+    }
+  ],
+  "Rookie": [
+    {
+      "name": "SnowGoburimon",
+      "requirements": ["LV 10"]
+    }
+  ],
+  "Champion": [
+    {
+      "name": "Hyogamon",
+      "requirements": ["LV 23","ATK 110"]
+    },
+    {
+      "name": "Frigimon",
+      "requirements": ["LV 21","Friendship 70%","AQN 700"]
+    }
+  ],
+  "Ultimate": [
+    {
+      "name": "N/A",
+      "requirements": []
+    },
+    {
+      "name": "N/A",
+      "requirements": []
+    }
+  ],
+  "Mega": [
+    {
+      "name": "N/A",
+      "requirements": []
+    },
+    {
+      "name": "N/A",
+      "requirements": []
+    }
+  ]
+}

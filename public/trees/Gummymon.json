@@ -1,0 +1,88 @@
+{
+  "In-Training":[
+    {
+      "name":"Gummymon",
+      "requirements":["LV 4"]
+    }
+  ],
+  "Rookie":[
+    {
+      "name":"Terriermon",
+      "requirements":["LV 9"]
+    },
+    {
+      "name":"Tapirmon",
+      "requirements":["LV 16","HOL 470"]
+    },
+    {
+      "name":"Renamon",
+      "requirements":["LV 12","SPD 70"]
+    }
+  ],
+  "Champion":[
+    {
+      "name":"Gargomon",
+      "requirements":["LV 20","Friend 60%","BST 480"]
+    },
+    {
+      "name":"Unimon",
+      "requirements":["LV 22","SPD 90"]
+    },
+    {
+      "name":"Seasarmon",
+      "requirements":["LV 24","DEF 120","HOL 800"]
+    },
+    {
+      "name":"Kyubimon",
+      "requirements":["LV 23","SPT 125"]
+    },
+    {
+      "name":"Sorcerymon",
+      "requirements":["LV 25","friend 70%","HOL 700"]
+    }
+  ],
+  "Ultimate":[
+    {
+      "name":"Rapidmon",
+      "requirements":["LV 33","SPD 135","MAC 3500"]
+    },
+    {
+      "name":"Piximon",
+      "requirements":["LV 33","SPT 145","HOL 4300"]
+    },
+    {
+      "name":"N/A",
+      "requirements":[]
+    },
+    {
+      "name":"Taomon",
+      "requirements":["LV 36","Friend 80%","SPT 185"]
+    },
+    {
+      "name":"N/A",
+      "requirements":[]
+    }
+  ],
+  "Mega":[
+    {
+      "name":"MegaGargomon",
+      "requirements":["LV 50","HOL 8000","MAC 8000"]
+    },
+    {
+      "name":"Jijimon",
+      "requirements":["LV 48","ATK 220","HOL 8000"]
+    },
+    {
+      "name":"N/A",
+      "requirements":[]
+    },
+    {
+      "name":"Sakuyamon",
+      "requirements":["LV 52","HOL 16000","got Kazuhamon"]
+    },
+    {
+      "name":"N/A",
+      "requirements":[]
+    }
+  ]
+}

@@ -1,0 +1,2955 @@
+{
+  "jogress": [
+    {
+      "name": "ARVeedramon",
+      "DNA": [
+        {
+          "digimon1": "Airdramon",
+          "digimon2": " Tyrannomon"
+        }
+      ],
+      "requirements": [
+        "Lv32+",
+        "Dragon EXP3700+",
+        "Attack 220+"
+      ]
+    },
+    {
+      "name": "Alphamon",
+      "DNA": [
+        {
+          "digimon1": "Magna Angemon",
+          "digimon2": "DoruGreymon"
+        },
+        {
+          "digimon1": "Magnamon ",
+          "digimon2": "DoruGreymon"
+        },
+        {
+          "digimon1": "MagnaAngemon",
+          "digimon2": "Magnamon"
+        }
+      ],
+      "requirements": [
+        "Lv61+",
+        "Holy EXP45000+",
+        "Spirit 400+"
+      ],
+      "rank": "S+"
+    },
+    {
+      "name": "Anubismon",
+      "DNA": [
+        {
+          "digimon1": "Garudamon",
+          "digimon2": "Blossomon"
+        },
+        {
+          "digimon1": "Yatagaramon ",
+          "digimon2": "Karatenmon"
+        }
+      ],
+      "requirements": [
+        "Lv52+",
+        "Holy EXP15000+",
+        "Spirit 290+"
+      ]
+    },
+    {
+      "name": "Antylamon",
+      "DNA": [
+        {
+          "digimon1": "Sorcerymon",
+          "digimon2": "Wizardmon"
+        }
+      ],
+      "requirements": [
+        "Lv36+",
+        "Friendship 70%",
+        "Spirit 230+"
+      ]
+    },
+    {
+      "name": "Apemon",
+      "DNA": [
+        {
+          "digimon1": "Tapirmon",
+          "digimon2": "Goburimon"
+        },
+        {
+          "digimon1": "Bakumon",
+          "digimon2": "Goburimon"
+        },
+        {
+          "digimon1": "Terriermon",
+          "digimon2": "Goburimon"
+        },
+        {
+          "digimon1": "Terriermon",
+          "digimon2": "Tapirmon"
+        },
+        {
+          "digimon1": "Terriermon",
+          "digimon2": "Bakumon"
+        }
+      ],
+      "requirements": [
+        "Lv21+",
+        "Beast EXP500+",
+        "Speed 160+"
+      ]
+    },
+    {
+      "name": "Apocalymon",
+      "DNA": [
+        {
+          "digimon1": "Piedmon",
+          "digimon2": "Machinedramon"
+        },
+        {
+          "digimon1": "MetalSeadramon",
+          "digimon2": "Puppetmon"
+        }
+      ],
+      "requirements": [
+        "Lv70+",
+        "Dark EXP 44444+",
+        "Got Piedmon"
+      ],
+      "rank": "S+"
+    },
+    {
+      "name": "Aquilamon",
+      "DNA": [
+        {
+          "digimon1": "Biyomon",
+          "digimon2": "Dorumon"
+        }
+      ],
+      "requirements": [
+        "Lv16+",
+        "Bird EXP500+",
+        "Attack 125+"
+      ]
+    },
+    {
+      "name": "Arukenimon",
+      "DNA": [
+        {
+          "digimon1": "Flymon",
+          "digimon2": "Wendigomon"
+        }
+      ],
+      "requirements": [
+        "Lv35+",
+        "Dark EXP7000+",
+        "Spirit 250+"
+      ]
+    },
+    {
+      "name": "Argomon (Ultimate)",
+      "DNA": [
+        {
+          "digimon1": "Zassoumon",
+          "digimon2": "Devimon"
+        },
+        {
+          "digimon1": "Weedmon",
+          "digimon2": "Devimon"
+        }
+      ],
+      "requirements": [
+        "Lv43+",
+        "Bug/Plant EXP15000+",
+        "Got Chrysalimon"
+      ],
+      "rank": "S"
+    },
+    {
+      "name": "Armageddemon",
+      "DNA": [
+        {
+          "digimon1": "Diaboromon",
+          "digimon2": "Infermon"
+        }
+      ],
+      "requirements": [
+        "Lv81+",
+        "Defense 480+",
+        "Kuramon must be in your party"
+      ],
+      "rank": "S+++"
+    },
+    {
+      "name": "Babamon",
+      "DNA": [
+        {
+          "digimon1": "Piximon",
+          "digimon2": "Vademon"
+        },
+        {
+          "digimon1": "Piximon",
+          "digimon2": "Lilamon"
+        },
+        {
+          "digimon1": "Lilamon",
+          "digimon2": "Vademon"
+        }
+      ],
+      "requirements": [
+        "Lv44+",
+        "Holy EXP7000+",
+        "Spirit 240+"
+      ]
+    },
+    {
+      "name": "BanchouLeomon",
+      "DNA": [
+        {
+          "digimon1": "Grappleomon",
+          "digimon2": "Pandamon"
+        }
+      ],
+      "requirements": [
+        "LV64+",
+        "Beast EXP50000+",
+        "Attack 420+"
+      ],
+      "rank":"A"
+    },
+    {
+      "name": "Beelzemon",
+      "DNA": [
+        {
+          "digimon1": "Mummymon",
+          "digimon2": "Matadormon"
+        }
+      ],
+      "requirements": [
+        "LV62+",
+        "Attack 370+",
+        "Must have befriended Impmon"
+      ],
+      "rank": "S"
+    },
+    {
+      "name": "BeelzemonBM",
+      "DNA": [
+        {
+          "digimon1": "Beelzemon",
+          "digimon2": "BanchouLeomon"
+        }
+      ],
+      "requirements": [
+        "LV68+",
+        "Spirit 410+",
+        "Friendship 100%"
+      ],
+      "rank": "S++"
+    },
+    {
+      "name": "BigMamemon",
+      "DNA": [
+        {
+          "digimon1": "Veggiemon",
+          "digimon2": "RedVegiemon"
+        },
+        {
+          "digimon1": "Veggiemon",
+          "digimon2": "Golemon"
+        },
+        {
+          "digimon1": "Mekanorimon",
+          "digimon2": "Golemon"
+        }
+      ],
+      "requirements": [
+        "Lv36+",
+        "Machine EXP5500+",
+        "must have befriended Mamemon"
+      ]
+    },
+    {
+      "name": "BPChessmon",
+      "DNA": [
+        {
+          "digimon1": "Wizardmon",
+          "digimon2": "Hookmon"
+        }
+      ],
+      "requirements": [
+        "Lv30+",
+        "Machine EXP3000+",
+        "Attack 200+"
+      ]
+    },
+    {
+      "name": "BSGargomon",
+      "DNA": [
+        {
+          "digimon1": "RookChessmon",
+          "digimon2": "BishopChessmon"
+        }
+      ],
+      "requirements": [
+        "Lv45+",
+        "Dark EXP7000+",
+        "Beast EXP7000+"
+      ]
+    },
+    {
+      "name": "BlackWarGreymon",
+      "DNA": [
+        {
+          "digimon1": "BlackWargrowlmon",
+          "digimon2": "Megadramon"
+        },
+        {
+          "digimon1": "Allomon",
+          "digimon2": "SkullGreymon"
+        }
+      ],
+      "requirements": [
+        "Lv53+",
+        "Dark EXP18000+",
+        "Spirit 320+"
+      ]
+    },
+    {
+      "name": "BWGrowlmon",
+      "DNA": [
+        {
+          "digimon1": "ReptileDramon",
+          "digimon2": "DarkTyrannomon"
+        }
+      ],
+      "requirements": [
+        "Lv35+",
+        "Machine EXP3000+",
+        "Dark EXP3000+"
+      ]
+    },
+    {
+      "name": "Blossomon",
+      "DNA": [
+        {
+          "digimon1": "Octomon",
+          "digimon2": "Kiwimon"
+        }
+      ],
+      "requirements": [
+        "Lv29+",
+        "Insect/Plant EXP5000+",
+        "Attack 170+"
+      ]
+    },
+    {
+      "name": "Boltmon",
+      "DNA": [
+        {
+          "digimon1": "Volcanomon",
+          "digimon2": "Tekkamon"
+        }
+      ],
+      "requirements": [
+        "Lv41+",
+        "Machine EXP9100+",
+        "Attack 260+"
+      ]
+    },
+    {
+      "name": "BomberNanimon",
+      "DNA": [
+        {
+          "digimon1": "Mushroomon",
+          "digimon2": "Tekkamon"
+        }
+      ],
+      "requirements": [
+        "Lv22+",
+        "Machine EXP660+",
+        "Friendship 60%+"
+      ]
+    },
+    {
+      "name": "Cannondramon",
+      "DNA": [
+        {
+          "digimon1": "MameTyramon",
+          "digimon2": "Brachiomon"
+        },
+        {
+          "digimon1": "Mametyramon",
+          "digimon2": "Vermillimon"
+        },
+        {
+          "digimon1": "Brachiomon",
+          "digimon2": "Vermillimon"
+        }
+      ],
+      "requirements": [
+        "lv42+",
+        "Machine EXP10000+",
+        "Attack 295+"
+      ]
+    },
+    {
+      "name": "Centarumon",
+      "DNA": [
+        {
+          "digimon1": "Terriermon",
+          "digimon2": "Kokuwamon"
+        },
+        {
+          "digimon1": "Terriermon",
+          "digimon2": "Hagurumon"
+        },
+        {
+          "digimon1": "Kokuwamon",
+          "digimon2": "Hagurumon"
+        }
+      ],
+      "requirements": [
+        "Lv16+",
+        "Attack 125+",
+        "Speed 130+"
+      ]
+    },
+    {
+      "name": "Chaosmon",
+      "DNA": [
+        {
+          "digimon1": "Darkdramon",
+          "digimon2": "BanchoLeomon"
+        },
+        {
+          "digimon1": "BanchoLeomon",
+          "digimon2": "Valdurmon"
+        },
+        {
+          "digimon1": "Valdurmon",
+          "digimon2": "Darkdramon"
+        }
+      ],
+      "requirements": [
+        "Lv67+",
+        "Total EXP70000+",
+        "Attack 420+"
+      ],
+      "rank":"A+"
+    },
+    {
+      "name": "ChaosGallantmon",
+      "DNA": [
+        {
+          "digimon1": "BlackWargrowlmon",
+          "digimon2": "Diaboromon"
+        }
+      ],
+      "requirements": [
+        "Lv63+",
+        "Dark EXP25000+",
+        "Attack 360+"
+      ],
+      "rank":"A"
+    },
+    {
+      "name": "CherubimonG",
+      "DNA": [
+        {
+          "digimon1": "Monzaemon",
+          "digimon2": "Prairiemon"
+        }
+      ],
+      "requirements": [
+        "Lv58+",
+        "Holy EXP25000+",
+        "Spirit 400+"
+      ]
+    },
+    {
+      "name": "Creepymon",
+      "DNA": [
+        {
+          "digimon1": "Vamdemon",
+          "digimon2": "LadyDevimon"
+        }
+      ],
+      "requirements": [
+        "Lv63+",
+        "Dark EXP44000+",
+        "Must have befriended a Daemon"
+      ]
+    },
+    {
+      "name": "Darkdramon",
+      "DNA": [
+        {
+          "digimon1": "MetalGreymon",
+          "digimon2": "MameTyramon"
+        },
+        {
+          "digimon1": "MetalTyrannomo",
+          "digimon2": "MetalGreymon"
+        },
+        {
+          "digimon1": "MameTyramon",
+          "digimon2": "MetalTyrannomon"
+        }
+      ],
+      "requirements": [
+        "Lv46+",
+        "Machine EXP5000+",
+        "Dark EXP 10000+"
+      ]
+    },
+    {
+      "name": "DarkLizardmon",
+      "DNA": [
+        {
+          "digimon1": "Guilmon",
+          "digimon2": "Impmon"
+        }
+      ],
+      "requirements": [
+        "Lv16+",
+        "Dark EXP400+"
+      ]
+    },
+    {
+      "name": "DarkTyrannomon",
+      "DNA": [
+        {
+          "digimon1": "Guilmon",
+          "digimon2": "ToyAgumonBlack"
+        }
+      ],
+      "requirements": [
+        "Lv17+",
+        "Dark EXP600+",
+        "Attack 130+"
+      ]
+    },
+    {
+      "name": "Deramon",
+      "DNA": [
+        {
+          "digimon1": "Diatrymon",
+          "digimon2": "Woodmon"
+        }
+      ],
+      "requirements": [
+        "Lv31+",
+        "Bird EXP2000+",
+        "Insect/Plant EXP2000+"
+      ]
+    },
+    {
+      "name": "Devidramon",
+      "DNA": [
+        {
+          "digimon1": "BlackAgumon",
+          "digimon2": "DemiDevimon"
+        }
+      ],
+      "requirements": [
+        "Lv18+",
+        "Dragon EXP 250+",
+        "Dark EXP200+"
+      ]
+    },
+    {
+      "name": "Devitamamon",
+      "DNA": [
+        {
+          "digimon1": "Anomarokarimon",
+          "digimon2": "Pipismon"
+        },
+        {
+          "digimon1": "Scorpiomon",
+          "digimon2": "Pipismon"
+        },
+        {
+          "digimon1": "ExTyrannomon",
+          "digimon2": "Toucanmon"
+        }
+      ],
+      "requirements": [
+        "Lv44+",
+        "Dark EXP13000+",
+        "Attack 270+"
+      ]
+    },
+    {
+      "name": "Diatrymon",
+      "DNA": [
+        {
+          "digimon1": "Solarmon",
+          "digimon2": "DotFalcomon"
+        }
+      ],
+      "requirements": [
+        "Lv24+",
+        "Machine EXP2000+",
+        "Defense 180+"
+      ]
+    },
+    {
+      "name": "DinoBeemon",
+      "DNA": [
+        {
+          "digimon1": "Stingmon",
+          "digimon2": "ExVeemon"
+        }
+      ],
+      "requirements": [
+        "Lv35+",
+        "Speed 250+",
+        "Friendship 80%+",
+        "Stingmon as Jogress Initiator"
+      ]
+    },
+    {
+      "name": "Dinohumon",
+      "DNA": [
+        {
+          "digimon1": "Hawkmon",
+          "digimon2": "Kotemon"
+        },
+        {
+          "digimon1": "Kotemon",
+          "digimon2": "DotAgumon"
+        },
+        {
+          "digimon1": "DotAgumon",
+          "digimon2": "Hawkmon"
+        }
+      ],
+      "requirements": [
+        "Lv20+",
+        "Dragon EXP700+",
+        "Attack 130+"
+      ]
+    },
+    {
+      "name": "Drimogemon",
+      "DNA": [
+        {
+          "digimon1": "Gomamon",
+          "digimon2": "Gizamon"
+        }
+      ],
+      "requirements": [
+        "Lv15+",
+        "Beast EXP200+",
+        "Attack 120+"
+      ]
+    },
+    {
+      "name": "DoruGreymon",
+      "DNA": [
+        {
+          "digimon1": "Drimogemon",
+          "digimon2": "NiseDrimogemon"
+        },
+        {
+          "digimon1": "Greymon",
+          "digimon2": "Garurumon"
+        }
+      ],
+      "requirements": [
+        "Lv34+",
+        "Machine EXP2500+",
+        "Dragon EXP4500+"
+      ]
+    },
+    {
+      "name": "Dorugoramon",
+      "DNA": [
+        {
+          "digimon1": "MegaKabuterimon",
+          "digimon2": "Flamedramon"
+        }
+      ],
+      "requirements": [
+        "Lv49+",
+        "Species EXP47000+",
+        "Attack 305+"
+      ]
+    },
+    {
+      "name": "Dragomon",
+      "DNA": [
+        {
+          "digimon1": "Octomon",
+          "digimon2": "Gesomon"
+        }
+      ],
+      "requirements": [
+        "Lv33+",
+        "Dark EXP 3800+",
+        "Spirit 200+"
+      ]
+    },
+    {
+      "name": "Duftmon",
+      "DNA": [
+        {
+          "digimon1": "Slash Angemon",
+          "digimon2": "Grappleomon"
+        }
+      ],
+      "requirements": [
+        "Lv72+",
+        "Holy EXP60000+",
+        "Speed 445+"
+      ],
+      "rank": "S+++"
+    },
+    {
+      "name": "Eaglemon",
+      "DNA": [
+        {
+          "digimon1": "Owlmon",
+          "digimon2": "Kenkimon"
+        },
+        {
+          "digimon1": "Kenkimon",
+          "digimon2": "Shakkoumon"
+        },
+        {
+          "digimon1": "Shakkoumon",
+          "digimon2": "Owlmon"
+        }
+      ],
+      "requirements": [
+        "Lv46+",
+        "Holy EXP7000+",
+        "Defense 300+"
+      ]
+    },
+    {
+      "name": "Ebemon",
+      "DNA": [
+        {
+          "digimon1": "Garbagemon",
+          "digimon2": "Meteormon"
+        },
+        {
+          "digimon1": "Meteormon",
+          "digimon2": "MetalMamemon"
+        },
+        {
+          "digimon1": "MetalMamemon",
+          "digimon2": "Garbagemon"
+        }
+      ],
+      "requirements": [
+        "Lv42+",
+        "Machine EXP8000+",
+        "Attack 270+"
+      ]
+    },
+    {
+      "name": "Ebidramon",
+      "DNA": [
+        {
+          "digimon1": "Syakomon",
+          "digimon2": "DotAgumon"
+        }
+      ],
+      "requirements": [
+        "Lv22+",
+        "Dragon EXP800+",
+        "Defense 155+"
+      ]
+    },
+    {
+      "name": "Etemon",
+      "DNA": [
+        {
+          "digimon1": "Geremon",
+          "digimon2": "Sukamon"
+        },
+        {
+          "digimon1": "Sukamon",
+          "digimon2": "J.Mojyamon"
+        },
+        {
+          "digimon1": "J.Mojyamon",
+          "digimon2": "Geremon"
+        }
+      ],
+      "requirements": [
+        "Lv29+",
+        "Beast EXP3200+",
+        "Spirit 155+"
+      ]
+    },
+    {
+      "name": "EXTyrannomon",
+      "DNA": [
+        {
+          "digimon1": "Raremon",
+          "digimon2": "Tyrannomon"
+        }
+      ],
+      "requirements": [
+        "Lv29+",
+        "Dark EXP3700+"
+      ]
+    },
+    {
+      "name": "ExVeemon",
+      "DNA": [
+        {
+          "digimon1": "Dorumon",
+          "digimon2": "SnowAgumon"
+        }
+      ],
+      "requirements": [
+        "Lv19+",
+        "Dragon EXP1000+",
+        "Spirit 155+"
+      ]
+    },
+    {
+      "name": "Flarerizamon",
+      "DNA": [
+        {
+          "digimon1": "DotAgumon",
+          "digimon2": "Solarmon"
+        }
+      ],
+      "requirements": [
+        "Lv16+",
+        "Dragon EXP400+"
+      ]
+    },
+    {
+      "name": "GallantmonCM",
+      "DNA": [
+        {
+          "digimon1": "Gallantmon",
+          "digimon2": "Seraphimon"
+        }
+      ],
+      "requirements": [
+        "LV68+",
+        "Spirit 440+",
+        "Friendship 100%"
+      ],
+      "rank": "S+++"
+    },
+    {
+      "name": "Garbagemon",
+      "DNA": [
+        {
+          "digimon1": "Roachmon",
+          "digimon2": "Numemon"
+        },
+        {
+          "digimon1": "Numemon",
+          "digimon2": "PlatinumSukamon"
+        },
+        {
+          "digimon1": "PlatinumSukamon",
+          "digimon2": "Roachmon"
+        }
+      ],
+      "requirements": [
+        "Lv30+",
+        "Machine EXP4000+",
+        "Attack 195+"
+      ]
+    },
+    {
+      "name": "Garudamon",
+      "DNA": [
+        {
+          "digimon1": "Saberdramon",
+          "digimon2": "Aquilamon"
+        }
+      ],
+      "requirements": [
+        "Lv27+",
+        "Bird EXP2400+",
+        "Speed 160+"
+      ]
+    },
+    {
+      "name": "Ghoulmon",
+      "DNA": [
+        {
+          "digimon1": "Digitamamon",
+          "digimon2": "Monzaemon"
+        },
+        {
+          "digimon1": "Monzaemon",
+          "digimon2": "Pandamon"
+        },
+        {
+          "digimon1": "Pandamon",
+          "digimon2": "Digitamamon"
+        }
+      ],
+      "requirements": [
+        "Lv44+",
+        "Defense 260+",
+        "Spirit 250+"
+      ]
+    },
+    {
+      "name": "GhoulmonB",
+      "DNA": [
+        {
+          "digimon1": "Etemon",
+          "digimon2": "Ponchomon"
+        }
+      ],
+      "requirements": [
+        "Lv44+",
+        "Dark EXP8500+",
+        "Attack 250+"
+      ]
+    },
+    {
+      "name": "Gigadramon",
+      "DNA": [
+        {
+          "digimon1": "DarkLizardmon",
+          "digimon2": "SandYanmamon"
+        }
+      ],
+      "requirements": [
+        "Lv36+",
+        "Machine EXP4000+",
+        "Attack 210+"
+      ]
+    },
+    {
+      "name": "GigaSeadramon",
+      "DNA": [
+        {
+          "digimon1": "Whamon",
+          "digimon2": "Gigadramon"
+        },
+        {
+          "digimon1": "Tylomon",
+          "digimon2": "Kenkimon"
+        }
+      ],
+      "requirements": [
+        "Lv53+",
+        "Holy EXP55000+",
+        "Must have befriended Airdramon"
+      ]
+    },
+    {
+      "name": "GKuwagamon",
+      "DNA": [
+        {
+          "digimon1": "Dinobeemon",
+          "digimon2": "Scorpiomon"
+        }
+      ],
+      "requirements": [
+        "Lv44+",
+        "Insect/Plant EXP13000+",
+        "Attack 280+"
+      ]
+    },
+    {
+      "name": "GrapLeomon",
+      "DNA": [
+        {
+          "digimon1": "Minotaurmon",
+          "digimon2": "Fugamon"
+        }
+      ],
+      "requirements": [
+        "Lv34+",
+        "MachineEXP 4800+",
+        "Speed 225+"
+      ]
+    },
+    {
+      "name": "Gryphonmon",
+      "DNA": [
+        {
+          "digimon1": "Dorugremon",
+          "digimon2": "Toucanmon"
+        }
+      ],
+      "requirements": [
+        "Lv41+",
+        "Beast EXP7000+",
+        "Attack 250+"
+      ]
+    },
+    {
+      "name": "Guardromon",
+      "DNA": [
+        {
+          "digimon1": "PawnChessmonWhite",
+          "digimon2": "PawnChessmonBlack"
+        }
+      ],
+      "requirements": [
+        "Lv15+",
+        "Defense 130+"
+      ]
+    },
+    {
+      "name": "Gulfmon",
+      "DNA": [
+        {
+          "digimon1": "Arukenimon",
+          "digimon2": "Volcanomon"
+        }
+      ],
+      "requirements": [
+        "Lv51+",
+        "Dark EXP12000+",
+        "Beast EXP8500+"
+      ]
+    },
+    {
+      "name": "Gawappamon",
+      "DNA": [
+        {
+          "digimon1": "Otamamon",
+          "digimon2": "ToyAgumon"
+        }
+      ],
+      "requirements": [
+        "Lv15+",
+        "Machine EXP450+",
+        "Aquan EXP550+"
+      ]
+    },
+    {
+      "name": "HKabuterimon",
+      "DNA": [
+        {
+          "digimon1": "MKabuterimon R",
+          "digimon2": "Ookuwamon"
+        }
+      ],
+      "requirements": [
+        "Lv61+",
+        "Bug/Plant EXP32000",
+        "Defense 330+"
+      ],
+      "rank":"S"
+    },
+    {
+      "name": "HiAndromon",
+      "DNA": [
+        {
+          "digimon1": "Goburimon",
+          "digimon2": "RookChessmon"
+        }
+      ],
+      "requirements": [
+        "Lv45+",
+        "Machine EXP12000",
+        "Spirit 290+"
+      ]
+    },
+    {
+      "name": "Icemon",
+      "DNA": [
+        {
+          "digimon1": "Tsukaimon",
+          "digimon2": "SnowGoburimon"
+        }
+      ],
+      "requirements": [
+        "Lv21+",
+        "Aquan WXP300+",
+        "Dark EXP300+"
+      ]
+    },
+    {
+      "name": "IPDramonDMB",
+      "DNA": [
+        {
+          "digimon1": "Vermillimon",
+          "digimon2": "Triceramon"
+        }
+      ],
+      "requirements": [
+        "Lv55+",
+        "Dragon EXP16000+",
+        "Got IPDramonDB"
+      ]
+    },
+    {
+      "name": "IPDramonDM",
+      "DNA": [
+        {
+          "digimon1": "Allomon",
+          "digimon2": "RiseGreymon"
+        }
+      ],
+      "requirements": [
+        "Lv52+",
+        "Dragon EXP19000+",
+        "Got ImperialdramonDM"
+      ]
+    },
+    {
+      "name": "IPDramonPM",
+      "DNA": [
+        {
+          "digimon1": "Omnimon",
+          "digimon2": "Imperialdramon FM"
+        }
+      ],
+      "requirements": [
+        "Lv68+",
+        "Holy EXP50000+",
+        "Attack 440+"
+      ],
+      "rank": "S+++"
+    },
+    {
+      "name": "Jijimon",
+      "DNA": [
+        {
+          "digimon1": "Cherrymon",
+          "digimon2": "Pandamon"
+        }
+      ],
+      "requirements": [
+        "Lv44+",
+        "Holy EXP7000+",
+        "Attack 230+"
+      ]
+    },
+    {
+      "name": "Justimon",
+      "DNA": [
+        {
+          "digimon1": "SuperStarmon",
+          "digimon2": "Andromon"
+        }
+      ],
+      "requirements": [
+        "Lv46+",
+        "Machine EXP14500+",
+        "Spirit 280+"
+      ]
+    },
+    {
+      "name": "JumboGamemon",
+      "DNA": [
+        {
+          "digimon1": "Seahomon",
+          "digimon2": "BigMamemon"
+        }
+      ],
+      "requirements": [
+        "Lv46+",
+        "Machine EXP9000+",
+        "Attack 300+"
+      ]
+    },
+    {
+      "name": "Karatenmon",
+      "DNA": [
+        {
+          "digimon1": "Kougamon",
+          "digimon2": "Garurumon"
+        },
+        {
+          "digimon1": "Garurumon",
+          "digimon2": "Firamon"
+        },
+        {
+          "digimon1": "Firamon",
+          "digimon2": "Kougamon"
+        }
+      ],
+      "requirements": [
+        "Lv27+",
+        "Spirit 175+",
+        "Speed 155+"
+      ]
+    },
+    {
+      "name": "KaraNumemon",
+      "DNA": [
+        {
+          "digimon1": "Tapirmon",
+          "digimon2": "Crabmon"
+        }
+      ],
+      "requirements": [
+        "Lv21+",
+        "Aquan EXP400+",
+        "Defense 140+"
+      ]
+    },
+    {
+      "name": "Kimeramon",
+      "DNA": [
+        {
+          "digimon1": "Kabuterimon",
+          "digimon2": "Devimon"
+        }
+      ],
+      "requirements": [
+        "Lv40+",
+        "Species EXP19000+",
+        "Got SkullGreymon"
+      ]
+    },
+    {
+      "name": "KingChessmon",
+      "DNA": [
+        {
+          "digimon1": "ShogunGekomon",
+          "digimon2": "Mamemon"
+        }
+      ],
+      "requirements": [
+        "Lv45+",
+        "Machine EXP10000+",
+        "Aptitude 50+"
+      ]
+    },
+    {
+      "name": "Kogamon",
+      "DNA": [
+        {
+          "digimon1": "Falcomon",
+          "digimon2": "Kotemon"
+        }
+      ],
+      "requirements": [
+        "Lv17+",
+        "Attack 130+",
+        "Speed 110+"
+      ]
+    },
+    {
+      "name": "Kuwagamon",
+      "DNA": [
+        {
+          "digimon1": "Tentomon",
+          "digimon2": "Kokuwamon"
+        }
+      ],
+      "requirements": [
+        "Lv16+",
+        "Insect/Plant EXP500+",
+        "Attack 125+"
+      ]
+    },
+    {
+      "name": "Kuzuhamon",
+      "DNA": [
+        {
+          "digimon1": "Taomon",
+          "digimon2": "Karatenmon"
+        }
+      ],
+      "requirements": [
+        "Lv43+",
+        "Holy EXP7700+",
+        "Spirit 270+"
+      ]
+    },
+    {
+      "name": "Kyukimon",
+      "DNA": [
+        {
+          "digimon1": "Reppamon",
+          "digimon2": "Snimon"
+        }
+      ],
+      "requirements": [
+        "Lv35+",
+        "Beast EXP3500+",
+        "Speed 210+"
+      ]
+    },
+    {
+      "name": "LadyDevimon",
+      "DNA": [
+        {
+          "digimon1": "Devidramon",
+          "digimon2": "Kokatorimon"
+        },
+        {
+          "digimon1": "Kokatorimon",
+          "digimon2": "Lekismon"
+        },
+        {
+          "digimon1": "Lekismon",
+          "digimon2": "Devidramon"
+        }
+      ],
+      "requirements": [
+        "Lv35+",
+        "Dark EXP6000+",
+        "Attack 215+"
+      ]
+    },
+    {
+      "name": "Lampmon",
+      "DNA": [
+        {
+          "digimon1": "Mamemon",
+          "digimon2": "Meteormon"
+        }
+      ],
+      "requirements": [
+        "Lv43+",
+        "Holy EXP9800+",
+        "Defense 250+"
+      ]
+    },
+    {
+      "name": "Lilamon",
+      "DNA": [
+        {
+          "digimon1": "Weedmon",
+          "digimon2": "Vegiemon"
+        }
+      ],
+      "requirements": [
+        "Lv30+",
+        "Insect/Plant EXP4500+",
+        "Speed 160+"
+      ]
+    },
+    {
+      "name": "Lilithmon",
+      "DNA": [
+        {
+          "digimon1": "Blossomon",
+          "digimon2": "MarineDevimon"
+        }
+      ],
+      "requirements": [
+        "Lv59+",
+        "Dark EXP30000+",
+        "Spirit 330+"
+      ],
+      "rank":"S"
+    },
+    {
+      "name": "Lopmon",
+      "DNA": [
+        {
+          "digimon1": "Botamon",
+          "digimon2": "Moonmon"
+        }
+      ],
+      "requirements": [
+        "Lv7+",
+        "Dark EXP100+"
+      ]
+    },
+    {
+      "name": "Lotusmon",
+      "DNA": [
+        {
+          "digimon1": "Blossomon",
+          "digimon2": "LadyDevimon"
+        }
+      ],
+      "requirements": [
+        "Lv52+",
+        "Insect/Plant EXP22000+",
+        "Must have Befriended Rosemon"
+      ]
+    },
+    {
+      "name": "LucemonFM",
+      "DNA": [
+        {
+          "digimon1": "Angemon",
+          "digimon2": "Devimon"
+        }
+      ],
+      "requirements": [
+        "Lv40+",
+        "Species EXP12000+",
+        "Aptitude 50+"
+      ]
+    },
+    {
+      "name": "MGaogamon",
+      "DNA": [
+        {
+          "digimon1": "Grizzmon",
+          "digimon2": "Guardromon"
+        }
+      ],
+      "requirements": [
+        "Lv28+",
+        "Machine EXP2300+",
+        "Speed 200+"
+      ]
+    },
+    {
+      "name": "Machinedramon",
+      "DNA": [
+        {
+          "digimon1": "MetalTyrannomon",
+          "digimon2": "Megadramon"
+        },
+        {
+          "digimon1": "Megadramon",
+          "digimon2": "Gigadramon"
+        },
+        {
+          "digimon1": "Gigadramon",
+          "digimon2": "MetalTyrannomon"
+        }
+      ],
+      "requirements": [
+        "Lv50+",
+        "Attack 300+",
+        "Must have befriended MetalSeadramon"
+      ]
+    },
+    {
+      "name": "MAngemon",
+      "DNA": [
+        {
+          "digimon1": "Starmon",
+          "digimon2": "Clockmon"
+        }
+      ],
+      "requirements": [
+        "Lv30+",
+        "Holy EXP5000+",
+        "Spirit 190+"
+      ]
+    },
+    {
+      "name": "MagnaDramon",
+      "DNA": [
+        {
+          "digimon1": "Angewomon",
+          "digimon2": "Lilamon"
+        },
+        {
+          "digimon1": "Lilamon",
+          "digimon2": "Lillymon"
+        },
+        {
+          "digimon1": "Lillymon",
+          "digimon2": "Angewomon"
+        }
+      ],
+      "requirements": [
+        "Lv60+",
+        "Holy EXP22000+",
+        "Dragon EXP11000+"
+      ],
+      "rank":"B"
+    },
+    {
+      "name": "MaloMyotismon",
+      "DNA": [
+        {
+          "digimon1": "Myotismon",
+          "digimon2": "Shadramon"
+        }
+      ],
+      "requirements": [
+        "Lv68+",
+        "Spirit 470+",
+        "Arukenimon must be in your Party"
+      ],
+      "rank":"S++"
+    },
+    {
+      "name": "Mamemon",
+      "DNA": [
+        {
+          "digimon1": "Vegiemon",
+          "digimon2": "Sunflowmon"
+        }
+      ],
+      "requirements": [
+        "Lv28+",
+        "Attack 170+",
+        "Speed 160+"
+      ]
+    },
+    {
+      "name": "MameTyramon",
+      "DNA": [
+        {
+          "digimon1": "Ebidramon",
+          "digimon2": "Shellmon"
+        },
+        {
+          "digimon1": "Shellmon",
+          "digimon2": "Monochromon"
+        },
+        {
+          "digimon1": "Monochromon",
+          "digimon2": "Ebidramon"
+        }
+      ],
+      "requirements": [
+        "Lv32+",
+        "Dragon EXP3100+",
+        "Defense 200+"
+      ]
+    },
+    {
+      "name": "MA Angemon",
+      "DNA": [
+        {
+          "digimon1": "Monzaemon",
+          "digimon2": "SuperStarmon"
+        },
+        {
+          "digimon1": "Lillymon",
+          "digimon2": "MegaSeadramon"
+        }
+      ],
+      "requirements": [
+        "Lv42+",
+        "Holy EXP7000+",
+        "Water EXP10000+"
+      ]
+    },
+    {
+      "name": "MarineDevimon",
+      "DNA": [
+        {
+          "digimon1": "Gesomon",
+          "digimon2": "Vilemon"
+        }
+      ],
+      "requirements": [
+        "Lv31+",
+        "Aquan EXP2000+",
+        "Dark EXP1700+"
+      ]
+    },
+    {
+      "name": "Matadormon",
+      "DNA": [
+        {
+          "digimon1": "Hookmon",
+          "digimon2": "Vilemon"
+        }
+      ],
+      "requirements": [
+        "Lv30+",
+        "Dark EXP3100+",
+        "Speed 195+"
+      ]
+    },
+    {
+      "name": "MKabuterimon",
+      "DNA": [
+        {
+          "digimon1": "Flymon",
+          "digimon2": "Tortomon"
+        },
+        {
+          "digimon1": "Flymon",
+          "digimon2": "NiseDrimogemon"
+        },
+        {
+          "digimon1": "Tortomon",
+          "digimon2": "NiseDrimogemon"
+        }
+      ],
+      "requirements": [
+        "Lv29+",
+        "Defense 170+",
+        "Spirit 160+"
+      ]
+    },
+    {
+      "name": "Megadramon",
+      "DNA": [
+        {
+          "digimon1": "Yanmamon",
+          "digimon2": "FlareRizamon"
+        }
+      ],
+      "requirements": [
+        "Lv29+",
+        "Machine EXP2500+",
+        "Dragon EXP2000+"
+      ]
+    },
+    {
+      "name": "MegaSeadramon",
+      "DNA": [
+        {
+          "digimon1": "Ebidramon ",
+          "digimon2": "GeoGreymon"
+        },
+        {
+          "digimon1": "Ebidramon ",
+          "digimon2": "Airdramon"
+        }
+      ],
+      "requirements": [
+        "Lv32+",
+        "Dark EXP6000+",
+        "Got Guilmon"
+      ]
+    },
+    {
+      "name": "Mekanorimon",
+      "DNA": [
+        {
+          "digimon1": "Kokuwamon",
+          "digimon2": "ToyAgumon"
+        }
+      ],
+      "requirements": [
+        "Lv15+",
+        "Species EXP300+"
+      ]
+    },
+    {
+      "name": "MetalEtemon",
+      "DNA": [
+        {
+          "digimon1": "ShogunGekomon",
+          "digimon2": "Meteormon"
+        }
+      ],
+      "requirements": [
+        "Lv41+",
+        "Beast EXP8000+",
+        "Defense 240+"
+      ]
+    },
+    {
+      "name": "MGarurumon",
+      "DNA": [
+        {
+          "digimon1": "Mammothmon",
+          "digimon2": "MetalMamemon"
+        }
+      ],
+      "requirements": [
+        "Lv47+",
+        "Beast EXP10000+",
+        "Speed 300+"
+      ]
+    },
+    {
+      "name": "MetalGreymon",
+      "DNA": [
+        {
+          "digimon1": "RaptorDramon",
+          "digimon2": "Tankmon"
+        },
+        {
+          "digimon1": "Reptiledramon",
+          "digimon2": "Tankmon"
+        }
+      ],
+      "requirements": [
+        "Lv30+",
+        "Dragon EXP2000+",
+        "Attack 200+"
+      ]
+    },
+    {
+      "name": "MetalMamemon",
+      "DNA": [
+        {
+          "digimon1": "Igamon",
+          "digimon2": "PlatinumSukamon"
+        },
+        {
+          "digimon1": "Ninjamon",
+          "digimon2": "PlatinumSukamon"
+        }
+      ],
+      "requirements": [
+        "Lv29+",
+        "Machine EXP3000+",
+        "Attack 195+"
+      ]
+    },
+    {
+      "name": "MetalSeadramon",
+      "DNA": [
+        {
+          "digimon1": "Scorpiomon",
+          "digimon2": "MarineDevimon"
+        },
+        {
+          "digimon1": "MarineDevimon",
+          "digimon2": "MetalTyrannomon"
+        },
+        {
+          "digimon1": "MetalTyrannomon",
+          "digimon2": "Scorpiomon"
+        }
+      ],
+      "requirements": [
+        "Lv50+",
+        "Machine EXp8000+",
+        "Aquan EXP6000+"
+      ]
+    },
+    {
+      "name": "MetalTyrannomon",
+      "DNA": [
+        {
+          "digimon1": "TyrannomonTyrannomon",
+          "digimon2": "Tankmon"
+        },
+        {
+          "digimon1": "Tankmon",
+          "digimon2": "Mekanorimon"
+        },
+        {
+          "digimon1": "Mekanorimon",
+          "digimon2": "Tyrannomon"
+        }
+      ],
+      "requirements": [
+        "Lv29+",
+        "Machine EXp4000+"
+      ]
+    },
+    {
+      "name": "Millenniummon",
+      "DNA": [
+        {
+          "digimon1": "Kimeramon",
+          "digimon2": "Machinedramon"
+        }
+      ],
+      "requirements": [
+        "Lv55+",
+        "Dark EXp27000+",
+        "Attack 320+"
+      ],
+      "rank":"A-"
+    },
+    {
+      "name":"Minervamon",
+      "DNA":[
+        {
+          "digimon1":"Knightmon",
+          "digimon2":"WGarurumonB"
+        }
+      ],
+      "requirements":["Lv60+","Attack 400+","Speed 400+"],
+      "rank":"S"
+    },
+    {
+      "name": "MRGaogamonBM",
+      "DNA": [
+        {
+          "digimon1": "MirageGaogamon",
+          "digimon2": "Vikemon"
+        },
+        {
+          "digimon1": "MirageGaogamon",
+          "digimon2": "PrinceMamemon"
+        }
+      ],
+      "requirements": [
+        "Lv67+",
+        "Beast EXP40000+",
+        "Friendship 100%"
+      ],
+      "rank":"A+"
+    },
+    {
+      "name": "MKabuterimon R",
+      "DNA": [
+        {
+          "digimon1": "Drimogemon",
+          "digimon2": "KnightChessmonW"
+        },
+        {
+          "digimon1": "Drimogemon",
+          "digimon2": "Stingmon"
+        },
+        {
+          "digimon1": "Stingmon",
+          "digimon2": "KnightChessmonW"
+        }
+      ],
+      "requirements": [
+        "Lv32+",
+        "Defense 200+",
+        "Spirit 190+"
+      ]
+    },
+    {
+      "name": "Monochromon",
+      "DNA": [
+        {
+          "digimon1": "Gotsumon",
+          "digimon2": "Agumon"
+        }
+      ],
+      "requirements": [
+        "Lv15+",
+        "Dragon EXP150+",
+        "Defense 110+"
+      ]
+    },
+    {
+      "name": "Monzaemon",
+      "DNA": [
+        {
+          "digimon1": "Starmon",
+          "digimon2": "Frigimon"
+        },
+        {
+          "digimon1": "Saesarmon",
+          "digimon2": "Frigimon"
+        },
+        {
+          "digimon1": "Starmon",
+          "digimon2": "Numemon"
+        }
+      ],
+      "requirements": [
+        "Lv28+",
+        "Holy EXP3500+",
+        "Friendship 70%+"
+      ]
+    },
+    {
+      "name": "Tsuchidarumon",
+      "DNA": [
+        {
+          "digimon1": "Auraumon",
+          "digimon2": "Mushroomon"
+        }
+      ],
+      "requirements": [
+        "Lv16+",
+        "Friendship 60%+",
+        "Must have Befriended MudFrigimon"
+      ]
+    },
+    {
+      "name": "Mummymon",
+      "DNA": [
+        {
+          "digimon1": "Bakemon",
+          "digimon2": "Hookmon"
+        },
+        {
+          "digimon1": "Hookmon",
+          "digimon2": "Fuugamon"
+        },
+        {
+          "digimon1": "Fuugamon",
+          "digimon2": "Bakemon"
+        }
+      ],
+      "requirements": [
+        "Lv31+",
+        "Dark EXP41000+",
+        "Spirit 210+"
+      ]
+    },
+    {
+      "name": "Musyamon",
+      "DNA": [
+        {
+          "digimon1": "Shamanmon",
+          "digimon2": "Kotemon"
+        }
+      ],
+      "requirements": [
+        "Lv22+",
+        "Dark EXP1000+",
+        "Attack 160+"
+      ]
+    },
+    {
+      "name": "Myotismon",
+      "DNA": [
+        {
+          "digimon1": "Bakemon",
+          "digimon2": "Sangloupmon"
+        }
+      ],
+      "requirements": [
+        "Lv37+",
+        "Dark EXP9000+",
+        "Spirit 225+"
+      ]
+    },
+    {
+      "name": "Nanimon",
+      "DNA": [
+        {
+          "digimon1": "Impmon",
+          "digimon2": "Solarmon"
+        }
+      ],
+      "requirements": [
+        "Lv15+",
+        "Aptitude 24+",
+        "Defense 220+"
+      ]
+    },
+    {
+      "name": "Datamon",
+      "DNA": [
+        {
+          "digimon1": "BomberNanimon",
+          "digimon2": "Thunderballmon"
+        }
+      ],
+      "requirements": [
+        "Lv29+",
+        "Machine EXP3300+"
+      ]
+    },
+    {
+      "name": "Neptunemon",
+      "DNA": [
+        {
+          "digimon1": "Shaujinmon",
+          "digimon2": "Divermon"
+        }
+      ],
+      "requirements": [
+        "Lv58+",
+        "Aquan EXP41000+",
+        "Spirit 390+"
+      ]
+    },
+    {
+      "name": "Numemon",
+      "DNA": [
+        {
+          "digimon1": "Goburimon",
+          "digimon2": "Hagurumon"
+        }
+      ],
+      "requirements": [
+        "Lv15+",
+        "Species EXP1000+",
+        "Aptitude 20+"
+      ]
+    },
+    {
+      "name": "Omnimon",
+      "DNA": [
+        {
+          "digimon1": "WarGreymon",
+          "digimon2": "MetalGarurumon"
+        }
+      ],
+      "requirements": [
+        "Lv65+",
+        "Speed 415+",
+        "Friendship 100%"
+      ],
+      "rank": "S++"
+    },
+    {
+      "name": "Okuwamon",
+      "DNA": [
+        {
+          "digimon1": "Yanmamon",
+          "digimon2": "SandYanmamon"
+        },
+        {
+          "digimon1": "SandYanmamon",
+          "digimon2": "Musyamon"
+        },
+        {
+          "digimon1": "Musyamon",
+          "digimon2": "Yanmamon"
+        }
+      ],
+      "requirements": [
+        "Lv30+",
+        "Insect/Plant EXP3500+",
+        "Defense 170+"
+      ]
+    },
+    {
+      "name": "Ophanimon",
+      "DNA": [
+        {
+          "digimon1": "Taomon",
+          "digimon2": "Silphymon"
+        }
+      ],
+      "requirements": [
+        "Lv59+",
+        "Spirit 400+",
+        "Must have Befriended Angewomon"
+      ]
+    },
+    {
+      "name": "Paildramon",
+      "DNA": [
+        {
+          "digimon1": "ExVeemon",
+          "digimon2": "Stingmon"
+        }
+      ],
+      "requirements": [
+        "Lv36+",
+        "Attack 230+",
+        "Friendship 80%+",
+        "ExVeemon must initiate the Jogress"
+      ]
+    },
+    {
+      "name": "Pandamon",
+      "DNA": [
+        {
+          "digimon1": "Frigimon",
+          "digimon2": "MudFrigimon"
+        }
+      ],
+      "requirements": [
+        "Lv31+",
+        "Beast EXP6000+",
+        "Defense 225+"
+      ]
+    },
+    {
+      "name": "Parasimon",
+      "DNA": [
+        {
+          "digimon1": "Arukenimon",
+          "digimon2": "ExTyrannomon"
+        }
+      ],
+      "requirements": [
+        "Lv43+",
+        "Machine EXP3000+",
+        "DarkEXP6500+"
+      ]
+    },
+    {
+      "name": "Parrotmon",
+      "DNA": [
+        {
+          "digimon1": "Birdramon",
+          "digimon2": "Unimon"
+        }
+      ],
+      "requirements": [
+        "Lv30+",
+        "Holy EXP1600+",
+        "Bird EXP2600+"
+      ]
+    },
+    {
+      "name": "Pharaohmon",
+      "DNA": [
+        {
+          "digimon1": "Nanomon",
+          "digimon2": "Kongoumon"
+        },
+        {
+          "digimon1": "Taomon",
+          "digimon2": "Lynxmon"
+        }
+      ],
+      "requirements": [
+        "Lv45+",
+        "Holy EXP7500+",
+        "Dark EXP7500+"
+      ],
+      "rank": "S+"
+    },
+    {
+      "name": "Piedmon",
+      "DNA": [
+        {
+          "digimon1": "PhantomonPhantomon",
+          "digimon2": "Arukenimon"
+        },
+        {
+          "digimon1": "Arukenimon",
+          "digimon2": "Infermon"
+        },
+        {
+          "digimon1": "Infermon",
+          "digimon2": "Phantomon"
+        }
+      ],
+      "requirements": [
+        "Lv50+",
+        "Must have Befriended BOTH Piedmon & Puppetmon"
+      ]
+    },
+    {
+      "name": "Piximon",
+      "DNA": [
+        {
+          "digimon1": "Sorcerymon",
+          "digimon2": "Yanmamon"
+        }
+      ],
+      "requirements": [
+        "Lv28+",
+        "Holy EXP3000+",
+        "Spirit 170+"
+      ]
+    },
+    {
+      "name": "Preciomon",
+      "DNA": [
+        {
+          "digimon1": "Tylomon",
+          "digimon2": "AeroVeedramon"
+        },
+        {
+          "digimon1": "AeroVeedramon",
+          "digimon2": "Zudomon"
+        },
+        {
+          "digimon1": "Zudomon",
+          "digimon2": "Tylomon"
+        }
+      ],
+      "requirements": [
+        "Lv42+",
+        "Aquan EXP14000+",
+        "Spirit 240+"
+      ]
+    },
+    {
+      "name": "PrinceMamemon",
+      "DNA": [
+        {
+          "digimon1": "Mamemon",
+          "digimon2": "Giromon"
+        }
+      ],
+      "requirements": [
+        "Lv41+",
+        "Machine EXP8100+",
+        "Spirit 250+"
+      ]
+    },
+    {
+      "name": "Pukumon",
+      "DNA": [
+        {
+          "digimon1": "Divermon",
+          "digimon2": "Ponchomon"
+        }
+      ],
+      "requirements": [
+        "Lv40+",
+        "Aquan EXP8400+",
+        "Attack 220+"
+      ]
+    },
+    {
+      "name": "QUChessmon",
+      "DNA": [
+        {
+          "digimon1": "Crescemon",
+          "digimon2": "Antylamon"
+        },
+        {
+          "digimon1": "Antylamon",
+          "digimon2": "Cyberdramon"
+        },
+        {
+          "digimon1": "Cyberdramon",
+          "digimon2": "Crescemon"
+        }
+      ],
+      "requirements": [
+        "Lv45+",
+        "Machine EXP10000+",
+        "Spirit 220+"
+      ]
+    },
+    {
+      "name": "Rapidmon",
+      "DNA": [
+        {
+          "digimon1": "Gaogamon",
+          "digimon2": "Guardromon"
+        }
+      ],
+      "requirements": [
+        "Lv28+",
+        "Machine EXP2500+",
+        "Speed 175+"
+      ]
+    },
+    {
+      "name": "Ravemon",
+      "DNA": [
+        {
+          "digimon1": "Karatenmon",
+          "digimon2": "Shurimon"
+        }
+      ],
+      "requirements": [
+        "Lv44+",
+        "Machine EXP9000+",
+        "must have Befriended Falcomon"
+      ]
+    },
+    {
+      "name": "RavemonBM",
+      "DNA": [
+        {
+          "digimon1": "Ravemon",
+          "digimon2": "Valkyriemon"
+        },
+        {
+          "digimon1": "Ravemon",
+          "digimon2": "Valdurmon"
+        }
+      ],
+      "requirements": [
+        "Lv66+",
+        "Bird EXP40000+",
+        "Friendship 100%"
+      ],
+      "rank":"A"
+    },
+    {
+      "name": "Reptiledramon",
+      "DNA": [
+        {
+          "digimon1": "Monodramon",
+          "digimon2": "ToyAgumonB"
+        }
+      ],
+      "requirements": [
+        "Lv22+",
+        "Dragon EXP1800+",
+        "Defense 160+"
+      ]
+    },
+    {
+      "name": "RiseGreymon",
+      "DNA": [
+        {
+          "digimon1": "FlareRizamon",
+          "digimon2": "Deputymon"
+        },
+        {
+          "digimon1": "FlareRizamon",
+          "digimon2": "Revolmon"
+        }
+      ],
+      "requirements": [
+        "Lv30+",
+        "Machine EXP2000+",
+        "Dragon EXP2000+"
+      ]
+    },
+    {
+      "name": "Rosemon",
+      "DNA": [
+        {
+          "digimon1": "Lillymon",
+          "digimon2": "Matadormon"
+        }
+      ],
+      "requirements": [
+        "Lv44+",
+        "Insect/Plant EXP14000+",
+        "Attack 240+"
+      ]
+    },
+    {
+      "name": "RosemonBM",
+      "DNA": [
+        {
+          "digimon1": "Rosemon",
+          "digimon2": "Ophanimon"
+        },
+        {
+          "digimon1": "Rosemon",
+          "digimon2": "Babamon"
+        }
+      ],
+      "requirements": [
+        "Lv64+",
+        "Insect/Plant EXP40000+",
+        "Friendship 100%"
+      ],
+      "rank":"A"
+    },
+    {
+      "name": "Saberdramon",
+      "DNA": [
+        {
+          "digimon1": "Candlemon",
+          "digimon2": "DotFalcomon"
+        }
+      ],
+      "requirements": [
+        "Lv16+",
+        "Bird EXP1000+",
+        "Speed 120+"
+      ]
+    },
+    {
+      "name": "SaberLeomon",
+      "DNA": [
+        {
+          "digimon1": "Zudomon",
+          "digimon2": "Lynxmon"
+        }
+      ],
+      "requirements": [
+        "Lv52+",
+        "Beast EXP16000+",
+        "Attack 320+"
+      ]
+    },
+    {
+      "name": "Sakuyamon",
+      "DNA": [
+        {
+          "digimon1": "Kyukimon",
+          "digimon2": "Kabukimon"
+        }
+      ],
+      "requirements": [
+        "Lv47+",
+        "Holy EXP14000+",
+        "Must have Befriended Kuzuhamon"
+      ]
+    },
+    {
+      "name": "Sangloupmon",
+      "DNA": [
+        {
+          "digimon1": "Gabumon",
+          "digimon2": "Lunamon"
+        }
+      ],
+      "requirements": [
+        "Lv15+",
+        "Drak EXP150+",
+        "Beast EXP150+"
+      ]
+    },
+    {
+      "name": "Scorpiomon",
+      "DNA": [
+        {
+          "digimon1": "Snimon",
+          "digimon2": "SandYanmamon"
+        }
+      ],
+      "requirements": [
+        "Lv26+",
+        "Aquan EXP3000+",
+        "Spirit 170+"
+      ]
+    },
+    {
+      "name": "Seasarmon",
+      "DNA": [
+        {
+          "digimon1": "Salamon",
+          "digimon2": "Gaomon"
+        }
+      ],
+      "requirements": [
+        "Lv19+",
+        "Holy EXP600+",
+        "Defense 140+"
+      ]
+    },
+    {
+      "name": "Seraphimon",
+      "DNA": [
+        {
+          "digimon1": "BlackRapidmon",
+          "digimon2": "Rapidmon"
+        },
+        {
+          "digimon1": "Shakkoumon",
+          "digimon2": "Parrotmon"
+        }
+      ],
+      "requirements": [
+        "Lv61+",
+        "Holy EXP50000+",
+        "Must have Befriended Seraphimon"
+      ]
+    },
+    {
+      "name": "Shakkoumon",
+      "DNA": [
+        {
+          "digimon1": "Angemon",
+          "digimon2": "Ankylomon"
+        }
+      ],
+      "requirements": [
+        "Lv36+",
+        "Machine EXP4500+",
+        "Defense 255+"
+      ]
+    },
+    {
+      "name": "Shaujinmon",
+      "DNA": [
+        {
+          "digimon1": "IceDevimon",
+          "digimon2": "Apemon"
+        },
+        {
+          "digimon1": "Hanumon",
+          "digimon2": "Sorcerymon"
+        },
+        {
+          "digimon1": "Sorcerymon",
+          "digimon2": "IceDevimon"
+        }
+      ],
+      "requirements": [
+        "Lv29+",
+        "Aquan EXP3000+",
+        "Spirit 180+"
+      ]
+    },
+    {
+      "name": "SNGreymonBM",
+      "DNA": [
+        {
+          "digimon1": "ShineGreymon",
+          "digimon2": "Gallantmon"
+        },
+        {
+          "digimon1": "ShineGreymon",
+          "digimon2": "ImperialdramonFM"
+        }
+      ],
+      "requirements": [
+        "Lv68+",
+        "Friendship 100%",
+        "must have befriended ShineGreymon Ruin Mode"
+      ],
+      "rank": "S++"
+    },
+    {
+      "name": "SNGreymonRM",
+      "DNA": [
+        {
+          "digimon1": "ShineGreymon",
+          "digimon2": "Darkdramon"
+        }
+      ],
+      "requirements": [
+        "Lv59+",
+        "Dark EXP24000+",
+        "Attack 335+"
+      ],
+      "rank":"A+"
+    },
+    {
+      "name": "ShogunGekomon",
+      "DNA": [
+        {
+          "digimon1": "Shellmon",
+          "digimon2": "Hookmon"
+        }
+      ],
+      "requirements": [
+        "Lv27+",
+        "Machine EXP2500+",
+        "Friendship 60%+"
+      ]
+    },
+    {
+      "name": "Silphymon",
+      "DNA": [
+        {
+          "digimon1": "Gatomon",
+          "digimon2": "Aquilamon"
+        }
+      ],
+      "requirements": [
+        "Lv35+",
+        "Bird EXP7000+",
+        "Speed 190+"
+      ]
+    },
+    {
+      "name": "Sinduramon",
+      "DNA": [
+        {
+          "digimon1": "Kokatorimon",
+          "digimon2": "Akatorimon"
+        }
+      ],
+      "requirements": [
+        "Lv34+",
+        "Bird EXP7000+"
+      ]
+    },
+    {
+      "name": "SkullGreymon",
+      "DNA": [
+        {
+          "digimon1": "Devidramon",
+          "digimon2": "Greymon"
+        },
+        {
+          "digimon1": "Ebidramon",
+          "digimon2": "Monochromon"
+        }
+      ],
+      "requirements": [
+        "Lv37+",
+        "Dark EXP6500+",
+        "Must have Befriended SkullGreymon"
+      ]
+    },
+    {
+      "name": "SMammothmon",
+      "DNA": [
+        {
+          "digimon1": "MegaKabuterimonBlue",
+          "digimon2": "Myotismon"
+        },
+        {
+          "digimon1": "Myotismon",
+          "digimon2": "SkullGreymon"
+        },
+        {
+          "digimon1": "SkullGreymon",
+          "digimon2": "MegaKabuterimonBlue"
+        }
+      ],
+      "requirements": [
+        "Lv44+",
+        "Dark EXP5000+",
+        "Beast EXP5000+"
+      ]
+    },
+    {
+      "name": "SLAngemon",
+      "DNA": [
+        {
+          "digimon1": "Giromon",
+          "digimon2": "Kyukimon"
+        },
+        {
+          "digimon1": "Kyukimon",
+          "digimon2": "Pixiemon"
+        },
+        {
+          "digimon1": "Pixiemon",
+          "digimon2": "Giromon"
+        }
+      ],
+      "requirements": [
+        "Lv61+",
+        "Holy EXP41000+",
+        "Must have Befriended Sleipmon"
+      ]
+    },
+    {
+      "name": "Sleipmon",
+      "DNA": [
+        {
+          "digimon1": "Knightmon",
+          "digimon2": "Mammothmon"
+        }
+      ],
+      "requirements": [
+        "Lv61+",
+        "Holy EXP41000+",
+        "Must have Befriended Sleipmon"
+      ]
+    },
+    {
+      "name": "Sorcerymon",
+      "DNA": [
+        {
+          "digimon1": "Kudamon",
+          "digimon2": "Coronamon"
+        }
+      ],
+      "requirements": [
+        "Lv20+",
+        "Holy EXP400+",
+        "Friendship 60%+"
+      ]
+    },
+    {
+      "name": "Starmon",
+      "DNA": [
+        {
+          "digimon1": "DotFalcomon",
+          "digimon2": "Hagurumon"
+        },
+        {
+          "digimon1": "ToyAgumon",
+          "digimon2": "ToyAgumonB"
+        }
+      ],
+      "requirements": [
+        "Lv20+",
+        "Spirit 140+",
+        "Friendship 60%+"
+      ]
+    },
+    {
+      "name": "Sunflowmon",
+      "DNA": [
+        {
+          "digimon1": "Floramon",
+          "digimon2": "Monodramon"
+        }
+      ],
+      "requirements": [
+        "Lv15+",
+        "Insect/Plant EXP500+",
+        "Friendship 60%+"
+      ]
+    },
+    {
+      "name": "SPStarmon",
+      "DNA": [
+        {
+          "digimon1": "Igamon",
+          "digimon2": "Deputymon"
+        },
+        {
+          "digimon1": "Igamon",
+          "digimon2": "Revolmon"
+        }
+      ],
+      "requirements": [
+        "Lv36+",
+        "Holy EXP7200+",
+        "Attack 230+"
+      ]
+    },
+    {
+      "name": "Susanoomon",
+      "DNA": [
+        {
+          "digimon1": "SuperStarmon",
+          "digimon2": "Magnamon"
+        },
+        {
+          "digimon1": "Yatagaramon",
+          "digimon2": "Kongoumon"
+        }
+      ],
+      "requirements": [
+        "Lv73+",
+        "Species EXP88888+",
+        "Spirit 460+"
+      ],
+      "rank": "S++"
+    },
+    {
+      "name": "Tekkamon",
+      "DNA": [
+        {
+          "digimon1": "MudFrigimon",
+          "digimon2": "Thunderballmon"
+        }
+      ],
+      "requirements": [
+        "Lv32+",
+        "Machine EXP3100+",
+        "Attack 195+"
+      ]
+    },
+    {
+      "name": "Tortamon",
+      "DNA": [
+        {
+          "digimon1": "Otamamon",
+          "digimon2": "Gotsumon"
+        },
+        {
+          "digimon1": "Gotsumon",
+          "digimon2": "Armadillomon"
+        },
+        {
+          "digimon1": "Armadillomon",
+          "digimon2": "Otamamon"
+        }
+      ],
+      "requirements": [
+        "Lv18+",
+        "Aquan EXP400+",
+        "Defense 130+"
+      ]
+    },
+    {
+      "name": "Triceramon",
+      "DNA": [
+        {
+          "digimon1": "Minotarumon",
+          "digimon2": "Akylomon"
+        },
+        {
+          "digimon1": "MoriShellmon",
+          "digimon2": "Monochromon"
+        }
+      ],
+      "requirements": [
+        "Lv28+",
+        "Dragon EXP2500+",
+        "Defense 195+"
+      ]
+    },
+    {
+      "name": "Tyilinmon",
+      "DNA": [
+        {
+          "digimon1": "Unimon",
+          "digimon2": "Saesarmon"
+        }
+      ],
+      "requirements": [
+        "Lv38+",
+        "Holy EXP5500+",
+        "Must have Befriended Kudamon"
+      ]
+    },
+    {
+      "name": "Unimon",
+      "DNA": [
+        {
+          "digimon1": "Patamon",
+          "digimon2": "Biyomon"
+        }
+      ],
+      "requirements": [
+        "Lv17+",
+        "Holy EXP250+",
+        "Speed 110+"
+      ]
+    },
+    {
+      "name": "Vademon",
+      "DNA": [
+        {
+          "digimon1": "RedVegiemon",
+          "digimon2": "Nanimon"
+        }
+      ],
+      "requirements": [
+        "Lv36+",
+        "Machine EXP 3000+",
+        "Insect/Plant EXP 4000+"
+      ]
+    },
+    {
+      "name": "Vajramon",
+      "DNA": [
+        {
+          "digimon1": "Centaurmon",
+          "digimon2": "Dinohumon"
+        },
+        {
+          "digimon1": "Dinohumon",
+          "digimon2": "Minotarumon"
+        },
+        {
+          "digimon1": "Minotarumon",
+          "digimon2": "Centaurmon"
+        }
+      ],
+      "requirements": [
+        "Lv30+",
+        "Dark EXP3000+",
+        "Defense 190+"
+      ]
+    },
+    {
+      "name": "Valkyrimon",
+      "DNA": [
+        {
+          "digimon1": "Angewomon",
+          "digimon2": "Deramon"
+        },
+        {
+          "digimon1": "Deramon",
+          "digimon2": "Owlmon"
+        },
+        {
+          "digimon1": "Owlmon",
+          "digimon2": "Deramon"
+        }
+      ],
+      "requirements": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "Valdurmon",
+      "DNA": [
+        {
+          "digimon1": "Sinduramon",
+          "digimon2": "Silphymon"
+        }
+      ],
+      "requirements": [
+        "Lv63+",
+        "Holy EXP16000+",
+        "Bird EXP24000+"
+      ],
+      "rank": "S"
+    },
+    {
+      "name": "VNMyotismon",
+      "DNA": [
+        {
+          "digimon1": "Dragomon",
+          "digimon2": "Pipismon"
+        }
+      ],
+      "requirements": [
+        "Lv60+",
+        "Beast EXP33333+",
+        "Dark EXP33333+"
+      ]
+    },
+    {
+      "name": "Vermilimon",
+      "DNA": [
+        {
+          "digimon1": "GeoGreymon",
+          "digimon2": "Ankylomon"
+        },
+        {
+          "digimon1": "Ankylomon",
+          "digimon2": "NiseDrimogemon"
+        },
+        {
+          "digimon1": "NiseDrimogemon",
+          "digimon2": "GeoGreymon"
+        }
+      ],
+      "requirements": [
+        "Lv33+",
+        "Dragon EXP3000+",
+        "Defense 225+"
+      ]
+    },
+    {
+      "name": "Vikemon",
+      "DNA": [
+        {
+          "digimon1": "Whamon",
+          "digimon2": "WereGarurumon"
+        },
+        {
+          "digimon1": "Divermon",
+          "digimon2": "Shakkoumon"
+        }
+      ],
+      "requirements": [
+        "Lv45+",
+        "Defense 250+",
+        "Spirit 250+"
+      ]
+    },
+    {
+      "name": "WarGreymon",
+      "DNA": [
+        {
+          "digimon1": "Mametyramon",
+          "digimon2": "Flamedramon"
+        }
+      ],
+      "requirements": [
+        "Lv47+",
+        "Dragon EXP10000+",
+        "Attack 300+"
+      ]
+    },
+    {
+      "name": "Wendigomon",
+      "DNA": [
+        {
+          "digimon1": "Gizamon",
+          "digimon2": "Tsukaimon"
+        }
+      ],
+      "requirements": [
+        "Lv25+",
+        "Dark EXP1000+",
+        "Must have Befriended Wendigomon"
+      ]
+    },
+    {
+      "name": "Zanbamon",
+      "DNA": [
+        {
+          "digimon1": "Kabukimon",
+          "digimon2": "Tekkamon"
+        },
+        {
+          "digimon1": "Kabukimon",
+          "digimon2": "Dinohumon"
+        }
+      ],
+      "requirements": [
+        "Lv42+",
+        "Dark EXP11000+",
+        "Speed 270+"
+      ]
+    },
+    {
+      "name": "ZeedMillenniummon",
+      "DNA": [
+        {
+          "digimon1": "MoonMilleniumon",
+          "digimon2": "Gigadramon"
+        }
+      ],
+      "requirements": [
+        "Lv77+",
+        "Dark EXP70000+",
+        "Attack 450+"
+      ],
+      "rank": "S+++"
+    },
+    {
+      "name": "ChronomonHM",
+      "DNA": [
+        {
+          "digimon1": "Susanoomon",
+          "digimon2": "Valdurmon"
+        }
+      ],
+      "requirements": [
+        "LV83",
+        "Friendship 100%",
+        "got Chiccimon"
+      ],
+      "rank": "S++++"
+    }
+  ]
+}

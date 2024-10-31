@@ -1,0 +1,44 @@
+{
+  "In-Training": [
+    {
+      "name": "N/A",
+      "requirements": []
+    }
+  ],
+  "Rookie": [
+    {
+      "name": "Solarmon",
+      "requirements": []
+    }
+  ],
+  "Champion": [
+    {
+      "name": "Clockmon",
+      "requirements": ["LV 33","MinAPT 40","MAC 6000"]
+    },
+    {
+      "name": "BomberNanimon",
+      "requirements": ["LV 24","Friendship 70%","MAC 960"]
+    }
+  ],
+  "Ultimate": [
+    {
+      "name": "Knightmon",
+      "requirements": ["LV 40","ATK 200","DEF 180"]
+    },
+    {
+      "name": "Giromon",
+      "requirements": ["LV 38","ATK 175","MAC 4000"]
+    }
+  ],
+  "Mega": [
+    {
+      "name": "Alphamon",
+      "requirements": ["LV 65","HOL 50000","gotClockmon"]
+    },
+    {
+      "name": "N/A",
+      "requirements": []
+    }
+  ]
+}

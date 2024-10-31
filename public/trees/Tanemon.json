@@ -1,0 +1,88 @@
+{
+  "In-Training": [
+    {
+      "name": "Tanemon",
+      "requirements": ["LV 3"]
+    }
+  ],
+  "Rookie": [
+    {
+      "name": "Palmon",
+      "requirements": ["LV 8"]
+    },
+    {
+      "name": "Aruraumon",
+      "requirements": ["LV 14","EX 1100"]
+    },
+    {
+      "name": "Floramon",
+      "requirements": ["LV 12","INS 100"]
+    }
+  ],
+  "Champion": [
+    {
+      "name": "Togemon",
+      "requirements": ["LV 19","Friendship 60%","ATK 95"]
+    },
+    {
+      "name": "MoriShellmon",
+      "requirements": ["LV 22","DEF 105","BST 900"]
+    },
+    {
+      "name": "Weedmon",
+      "requirements": ["LV 23","SPT 95"]
+    },
+    {
+      "name": "Woodmon",
+      "requirements": ["LV 27","DEF 125","INS 1800"]
+    },
+    {
+      "name": "Veggiemon",
+      "requirements": ["LV 23","INS 500"]
+    }
+  ],
+  "Ultimate": [
+    {
+      "name": "Lillymon",
+      "requirements": ["LV 33","Friendship 80%","INS 3600"]
+    },
+    {
+      "name": "N/A",
+      "requirements": []
+    },
+    {
+      "name": "Blossomon",
+      "requirements": ["LV 34","ATK 140","AQN 3200"]
+    },
+    {
+      "name": "Cherrymon",
+      "requirements": ["LV 41","ATK 200","SPT 210"]
+    },
+    {
+      "name": "N/A",
+      "requirements": []
+    }
+  ],
+  "Mega": [
+    {
+      "name": "N/A",
+      "requirements": []
+    },
+    {
+      "name": "N/A",
+      "requirements": []
+    },
+    {
+      "name": "N/A",
+      "requirements": []
+    },
+    {
+      "name": "N/A",
+      "requirements": []
+    },
+    {
+      "name": "N/A",
+      "requirements": []
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "In-Training": [
+    {
+      "name":"N/A",
+      "requirements":[]
+    }
+  ],
+  "Rookie": [
+    {
+      "name":"Gotsumon",
+      "requirements":["LV 8"]
+    }
+  ],
+  "Champion": [
+    {
+      "name":"Icemon",
+      "requirements":["LV 19","DEF 90","AQN 400"]
+    },
+    {
+      "name":"Golemon",
+      "requirements":["LV 21","ATK 120","MAC 500"]
+    },
+    {
+      "name":"Tsuchidarumon",
+      "requirements":["LV 20","Friend 70%","gotTsuchidarumon"]
+    }
+  ],
+  "Ultimate": [
+    {
+      "name":"Meteormon",
+      "requirements":["LV 37","DEF 210","SPD 175"]
+    },
+    {
+      "name":"N/A",
+      "requirements":[]
+    },
+    {
+      "name":"N/A",
+      "requirements":[]
+    }
+  ],
+  "Mega": [
+    {
+      "name":"N/A",
+      "requirements":[]
+    },
+    {
+      "name":"N/A",
+      "requirements":[]
+    },
+    {
+      "name":"N/A",
+      "requirements":[]
+    }
+  ]
+}

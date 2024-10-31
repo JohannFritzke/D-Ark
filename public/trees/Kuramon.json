@@ -1,0 +1,56 @@
+{
+  "In-Training":[
+    {
+      "name":"Kuramon",
+      "requirements":["LV 3","gotKuramon"]
+    }
+  ],
+  "Rookie":[
+    {
+      "name":"Tsukaimon",
+      "requirements":["LV 8"]
+    }
+  ],
+  "Champion":[
+    {
+      "name":"Bakemon",
+      "requirements":["LV 19","DRK 420"]
+    },
+    {
+      "name":"Devidramon",
+      "requirements":["LV 22","DRG 350","DRK 300"]
+    }
+  ],
+  "Ultimate":[
+    {
+      "name":"Phantomon",
+      "requirements":["LV 34","DRK 4200"]
+    },
+    {
+      "name":"Kimeramon",
+      "requirements":["LV 44","DRK 11000","gotKimeramon"]
+    },
+    {
+      "name":"Gigadramon",
+      "requirements":["LV 40","ATK 195","MAC 4400"]
+    }
+  ],
+  "Mega":[
+    {
+      "name":"GhoulmonB",
+      "requirements":["LV 49","ATK 230","DRK 10500"]
+    },
+    {
+      "name":"Apocalymon",
+      "requirements":["LV 71","EX 44444","gotApocalymon"]
+    },
+    {
+      "name":"MoonMillenniummon",
+      "requirements":["LV 66","SPT 370","GotMillenniummon"]
+    },
+    {
+      "name":"N/A",
+      "requirements":[]
+    }
+  ]
+}

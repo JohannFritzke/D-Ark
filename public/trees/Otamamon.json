@@ -1,0 +1,56 @@
+{
+  "In-Training":[
+    {
+      "name":"N/A",
+      "requirements":[]
+    }
+  ],
+  "Rookie":[
+    {
+      "name":"Otamamon",
+      "requirements":["LV 8"]
+    }
+  ],
+  "Champion":[
+    {
+      "name":"Gekomon",
+      "requirements":["LV 18","AQN 380"]
+    },
+    {
+      "name":"Geremon",
+      "requirements":["LV 19","gotNumemon"]
+    },
+    {
+      "name":"Numemon",
+      "requirements":["LV 19","EX 1400"]
+    }
+  ],
+  "Ultimate":[
+    {
+      "name":"ShogunGekomon",
+      "requirements":["LV 32","Friend 70%","MAC 2900"]
+    },
+    {
+      "name":"N/A",
+      "requirements":[]
+    },
+    {
+      "name":"N/A",
+      "requirements":[]
+    }
+  ],
+  "Mega":[
+    {
+      "name":"N/A",
+      "requirements":[]
+    },
+    {
+      "name":"N/A",
+      "requirements":[]
+    },
+    {
+      "name":"N/A",
+      "requirements":[]
+    }
+  ]
+}

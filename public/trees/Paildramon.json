@@ -1,0 +1,36 @@
+{
+  "In-Training": [
+    {
+      "name": "N/A",
+      "requirements": []
+    }
+  ],
+  "Rookie": [
+    {
+      "name": "N/A",
+      "requirements": []
+    }
+  ],
+  "Champion": [
+    {
+      "name": "N/A",
+      "requirements": []
+    }
+  ],
+  "Ultimate": [
+    {
+      "name": "Paildramon",
+      "requirements": ["LV36","INS 8800","gotPaildramon"]
+    }
+  ],
+  "Mega": [
+    {
+      "name": "IPDramonDM",
+      "requirements": ["LV56","Dragon EXP 22000","gotChibomon"]
+    },
+    {
+      "name": "IPDramonFM",
+      "requirements": ["LV67","Attack 390","Dark EXP 50000"]
+    }
+  ]
+}

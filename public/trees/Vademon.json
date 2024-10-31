@@ -1,0 +1,32 @@
+{
+  "In-Training": [
+    {
+      "name": "N/A",
+      "requirements": []
+    }
+  ],
+  "Rookie": [
+    {
+      "name": "N/A",
+      "requirements": []
+    }
+  ],
+  "Champion": [
+    {
+      "name": "N/A",
+      "requirements": []
+    }
+  ],
+  "Ultimate": [
+    {
+      "name": "Vademon",
+      "requirements": ["Lv36+","Machine EXP 3000+","Insect/Plant EXP 4000+"]
+    }
+  ],
+  "Mega": [
+    {
+      "name": "Ebemon",
+      "requirements": ["LV47","Attack 245","Machine EXP 11000"]
+    }
+  ]
+}

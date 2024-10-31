@@ -1,0 +1,1834 @@
+{
+  "digimons": [
+    {
+      "name": "Betamon",
+      "tree": "Betamon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "Octomon",
+      "tree": "Betamon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Gesomon",
+      "tree": "Betamon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Dolphmon",
+      "tree": "Betamon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Whamon",
+      "tree": "Betamon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Divermon",
+      "tree": "Betamon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "MA Angemon",
+      "tree": "Betamon",
+      "stage": "Mega"
+    },
+    {
+      "name": "Biyomon",
+      "tree": "Biyomon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "Birdramon",
+      "tree": "Biyomon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Saberdramon",
+      "tree": "Biyomon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Garudamon",
+      "tree": "Biyomon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Karatenmon",
+      "tree": "Biyomon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Gryphonmon",
+      "tree": "Biyomon",
+      "stage": "Mega",
+      "rank":"D+",
+      "rank":"D+"
+    },
+    {
+      "name": "Botamon",
+      "tree": "Botamon",
+      "stage": "In-Training"
+    },
+    {
+      "name": "BlackAgumon",
+      "tree": "Botamon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "Candlemon",
+      "tree": "Botamon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "Monochromon",
+      "tree": "Botamon",
+      "stage": "Champion"
+    },
+    {
+      "name": "DarkTyrannomon",
+      "tree": "Botamon",
+      "stage": "Champion"
+    },
+    {
+      "name": "DarkLizardmon",
+      "tree": "Botamon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Flarerizamon",
+      "tree": "Botamon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Vermilimon",
+      "tree": "Botamon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "SkullGreymon",
+      "tree": "Botamon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Volcanomon",
+      "tree": "Botamon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "BlackWarGreymon",
+      "tree": "Botamon",
+      "stage": "Mega",
+      "rank":"C-"
+    },
+    {
+      "name": "Machinedramon",
+      "tree": "Botamon",
+      "stage": "Mega",
+      "rank":"D"
+    },
+    {
+      "name": "Budmon",
+      "tree": "Budmon",
+      "stage": "In-Training"
+    },
+    {
+      "name": "DoKunemon",
+      "tree": "Budmon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "Mushroomon",
+      "tree": "Budmon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "Lalamon",
+      "tree": "Budmon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "Kuwagamon",
+      "tree": "Budmon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Dokugumon",
+      "tree": "Budmon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Roachmon",
+      "tree": "Budmon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Ninjamon",
+      "tree": "Budmon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Kogamon",
+      "tree": "Budmon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Sunflowmon",
+      "tree": "Budmon",
+      "stage": "Champion"
+    },
+    {
+      "name": "RedVeggimon",
+      "tree": "Budmon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Okuwamon",
+      "tree": "Budmon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Arukenimon",
+      "tree": "Budmon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Lilamon",
+      "tree": "Budmon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "GKuwagamon",
+      "tree": "Budmon",
+      "stage": "Mega",
+      "rank":"D"
+    },
+    {
+      "name": "Rosemon",
+      "tree": "Budmon",
+      "stage": "Mega",
+      "rank":"D"
+    },
+    {
+      "name": "Lotusmon",
+      "tree": "Budmon",
+      "stage": "Mega",
+      "rank":"B+"
+    },
+    {
+      "name": "Chibomon",
+      "tree": "Chibomon",
+      "stage": "In-Training"
+    },
+    {
+      "name": "Veemon",
+      "tree": "Chibomon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "Monodramon",
+      "tree": "Chibomon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "Veedramon",
+      "tree": "Chibomon",
+      "stage": "Champion"
+    },
+    {
+      "name": "ExVeemon",
+      "tree": "Chibomon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Dinohumon",
+      "tree": "Chibomon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Airdramon",
+      "tree": "Chibomon",
+      "stage": "Champion"
+    },
+    {
+      "name": "ARVeedramon",
+      "tree": "Chibomon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Cyberdramon",
+      "tree": "Chibomon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Megadramon",
+      "tree": "Chibomon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Goldramon",
+      "tree": "Chibomon",
+      "stage": "Mega",
+      "rank":"C-"
+    },
+    {
+      "name": "Justimon",
+      "tree": "Chibomon",
+      "stage": "Mega"
+    },
+    {
+      "name": "Darkdramon",
+      "tree": "Chibomon",
+      "stage": "Mega",
+      "rank":"D"
+    },
+    {
+      "name": "Chicchimon",
+      "tree": "Chicchimon",
+      "stage": "In-Training"
+    },
+    {
+      "name": "Penguinmon",
+      "tree": "Chicchimon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "Muchomon",
+      "tree": "Chicchimon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "Kiwimon",
+      "tree": "Chicchimon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Kokatorimon",
+      "tree": "Chicchimon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Diatrymon",
+      "tree": "Chicchimon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Akatorimon",
+      "tree": "Chicchimon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Deramon",
+      "tree": "Chicchimon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Sinduramon",
+      "tree": "Chicchimon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Parrotmon",
+      "tree": "Chicchimon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Phoenixmon",
+      "tree": "Chicchimon",
+      "stage": "Mega",
+      "rank":"B-"
+    },
+    {
+      "name": "Eaglemon",
+      "tree": "Chicchimon",
+      "stage": "Mega",
+      "rank":"A"
+    },
+    {
+      "name": "Dorimon",
+      "tree": "Dorimon",
+      "stage": "In-Training"
+    },
+    {
+      "name": "Dorumon",
+      "tree": "Dorimon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "Armadillomon",
+      "tree": "Dorimon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "Shamamon",
+      "tree": "Dorimon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "Dorugamon",
+      "tree": "Dorimon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Drimogemon",
+      "tree": "Dorimon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Ankylomon",
+      "tree": "Dorimon",
+      "stage": "Champion"
+    },
+    {
+      "name": "NDrimogemon",
+      "tree": "Dorimon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Fugamon",
+      "tree": "Dorimon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Apemon",
+      "tree": "Dorimon",
+      "stage": "Champion"
+    },
+    {
+      "name": "DoruGreymon",
+      "tree": "Dorimon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Kyukimon",
+      "tree": "Dorimon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Dorugoramon",
+      "tree": "Dorimon",
+      "stage": "Mega",
+      "rank":"D"
+    },
+    {
+      "name": "Kuzuhamon",
+      "tree": "Dorimon",
+      "stage": "Mega",
+      "rank":"C-"
+    },
+    {
+      "name": "Gigimon",
+      "tree": "Gigimon",
+      "stage": "In-Training"
+    },
+    {
+      "name": "Guilmon",
+      "tree": "Gigimon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "Growlmon",
+      "tree": "Gigimon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Tyrannomon",
+      "tree": "Gigimon",
+      "stage": "Champion"
+    },
+    {
+      "name": "WarGrowlmon",
+      "tree": "Gigimon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "BWGrowlmon",
+      "tree": "Gigimon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Triceramon",
+      "tree": "Gigimon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Gallantmon",
+      "tree": "Gigimon",
+      "stage": "Mega",
+      "rank":"A"
+    },
+    {
+      "name": "Megidramon",
+      "tree": "Gigimon",
+      "stage": "Mega",
+      "rank":"D"
+    },
+    {
+      "name": "Cannondramon",
+      "tree": "Gigimon",
+      "stage": "Mega",
+      "rank":"D"
+    },
+    {
+      "name": "Gizamon",
+      "tree": "Gizamon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "IceDevimon",
+      "tree": "Gizamon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Raremon",
+      "tree": "Gizamon",
+      "stage": "Champion"
+    },
+    {
+      "name": "MarineDevimon",
+      "tree": "Gizamon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Datamon",
+      "tree": "Gizamon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Parasimon",
+      "tree": "Gizamon",
+      "stage": "Mega",
+      "rank":"D+"
+    },
+    {
+      "name": "Gotsumon",
+      "tree": "Gotsumon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "Icemon",
+      "tree": "Gotsumon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Golemon",
+      "tree": "Gotsumon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Tsuchidarumon",
+      "tree": "Gotsumon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Meteormon",
+      "tree": "Gotsumon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Gummymon",
+      "tree": "Gummymon",
+      "stage": "In-Training"
+    },
+    {
+      "name": "Terriermon",
+      "tree": "Gummymon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "Tapirmon",
+      "tree": "Gummymon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "Renamon",
+      "tree": "Gummymon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "Gargomon",
+      "tree": "Gummymon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Unimon",
+      "tree": "Gummymon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Seasarmon",
+      "tree": "Gummymon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Kyubimon",
+      "tree": "Gummymon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Sorcerymon",
+      "tree": "Gummymon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Rapidmon",
+      "tree": "Gummymon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Piximon",
+      "tree": "Gummymon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Taomon",
+      "tree": "Gummymon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "MegaGargomon",
+      "tree": "Gummymon",
+      "stage": "Mega",
+      "rank":"D"
+    },
+    {
+      "name": "Jijimon",
+      "tree": "Gummymon",
+      "stage": "Mega",
+      "rank":"C-"
+    },
+    {
+      "name": "Sakuyamon",
+      "tree": "Gummymon",
+      "stage": "Mega",
+      "rank":"B"
+    },
+    {
+      "name": "Hawkmon",
+      "tree": "Hawkmon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "Aquilamon",
+      "tree": "Hawkmon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Kapurimon",
+      "tree": "Kapurimon",
+      "stage": "In-Training"
+    },
+    {
+      "name": "PwnChessmonB",
+      "tree": "Kapurimon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "Kotemon",
+      "tree": "Kapurimon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "Hagurumon",
+      "tree": "Kapurimon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "KChessmonB",
+      "tree": "Kapurimon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Omekamon",
+      "tree": "Kapurimon",
+      "stage": "Champion"
+    },
+    {
+      "name": "PltSukamon",
+      "tree": "Kapurimon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Guardromon",
+      "tree": "Kapurimon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Hookmon",
+      "tree": "Kapurimon",
+      "stage": "Champion"
+    },
+    {
+      "name": "RookChessmon",
+      "tree": "Kapurimon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Tekkamon",
+      "tree": "Kapurimon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Andromon",
+      "tree": "Kapurimon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "QUChessmon",
+      "tree": "Kapurimon",
+      "stage": "Mega",
+      "rank":"D"
+    },
+    {
+      "name": "Puppetmon",
+      "tree": "Kapurimon",
+      "stage": "Mega",
+      "rank":"B-"
+    },
+    {
+      "name": "HiAndromon",
+      "tree": "Kapurimon",
+      "stage": "Mega",
+      "rank":"C-"
+    },
+    {
+      "name": "Kokomon",
+      "tree": "Kokomon",
+      "stage": "In-Training"
+    },
+    {
+      "name": "Lopmon",
+      "tree": "Kokomon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "Centarumon",
+      "tree": "Kokomon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Wendigomon",
+      "tree": "Kokomon",
+      "stage": "Champion"
+    },
+    {
+      "name": "BRapidmon",
+      "tree": "Kokomon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Antylamon",
+      "tree": "Kokomon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "BSGargomon",
+      "tree": "Kokomon",
+      "stage": "Mega",
+      "rank":"D"
+    },
+    {
+      "name": "CherubimonG",
+      "tree": "Kokomon",
+      "stage": "Mega",
+      "rank":"A+"
+    },
+    {
+      "name": "CherubimonE",
+      "tree": "Kokomon",
+      "stage": "Mega",
+      "rank":"A+"
+    },
+    {
+      "name": "Kokuwamon",
+      "tree": "Kokuwamon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "TDBallmon",
+      "tree": "Kokuwamon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Mamemon",
+      "tree": "Kokuwamon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Koromon",
+      "tree": "Koromon",
+      "stage": "In-Training"
+    },
+    {
+      "name": "Agumon",
+      "tree": "Koromon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "DotAgumon",
+      "tree": "Koromon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "GeoGreymon",
+      "tree": "Koromon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Greymon",
+      "tree": "Koromon",
+      "stage": "Champion"
+    },
+    {
+      "name": "RiseGreymon",
+      "tree": "Koromon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "MetalGreymon",
+      "tree": "Koromon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "SNGreymon",
+      "tree": "Koromon",
+      "stage": "Mega",
+      "rank":"D"
+    },
+    {
+      "name": "DSGreymon",
+      "tree": "Koromon",
+      "stage": "Mega",
+      "rank":"B+"
+    },
+    {
+      "name": "WarGreymon",
+      "tree": "Koromon",
+      "stage": "Mega",
+      "rank":"D"
+    },
+    {
+      "name": "Kuramon",
+      "tree": "Kuramon",
+      "stage": "In-Training"
+    },
+    {
+      "name": "Tsukaimon",
+      "tree": "Kuramon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "Bakemon",
+      "tree": "Kuramon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Devidramon",
+      "tree": "Kuramon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Phantomon",
+      "tree": "Kuramon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Kimeramon",
+      "tree": "Kuramon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Gigadramon",
+      "tree": "Kuramon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "GhoulmonB",
+      "tree": "Kuramon",
+      "stage": "Mega",
+      "rank":"D"
+    },
+    {
+      "name": "Apocalymon",
+      "tree": "Kuramon",
+      "stage": "Mega",
+      "rank": "S+"
+    },
+    {
+      "name": "MoonMillenniummon",
+      "tree": "Kuramon",
+      "stage": "Mega",
+      "rank":"S++"
+    },
+    {
+      "name": "Minomon",
+      "tree": "Minomon",
+      "stage": "In-Training"
+    },
+    {
+      "name": "Tentomon",
+      "tree": "Minomon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "Wormmon",
+      "tree": "Minomon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "Kunemon",
+      "tree": "Minomon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "Kabuterimon",
+      "tree": "Minomon",
+      "stage": "Champion"
+    },
+    {
+      "name": "SYanmamon",
+      "tree": "Minomon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Stingmon",
+      "tree": "Minomon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Snimon",
+      "tree": "Minomon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Yanmamon",
+      "tree": "Minomon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Flymon",
+      "tree": "Minomon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Sukamon",
+      "tree": "Minomon",
+      "stage": "Champion"
+    },
+    {
+      "name": "MKabuterimon R",
+      "tree": "Minomon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "MKabuterimon",
+      "tree": "Minomon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "DinoBeemon",
+      "tree": "Minomon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Garbagemon",
+      "tree": "Minomon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "IPDramonDMB",
+      "tree": "Minomon",
+      "stage": "Mega",
+      "rank":"A"
+    },
+    {
+      "name": "Moonmon",
+      "tree": "Moonmon",
+      "stage": "In-Training"
+    },
+    {
+      "name": "Lunamon",
+      "tree": "Moonmon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "Lekismon",
+      "tree": "Moonmon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Crescemon",
+      "tree": "Moonmon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Dianamon",
+      "tree": "Moonmon",
+      "stage": "Mega",
+      "rank":"D"
+    },
+    {
+      "name": "Otamamon",
+      "tree": "Otamamon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "Gekomon",
+      "tree": "Otamamon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Geremon",
+      "tree": "Otamamon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Numemon",
+      "tree": "Otamamon",
+      "stage": "Champion"
+    },
+    {
+      "name": "ShogunGekomon",
+      "tree": "Otamamon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Pagumon",
+      "tree": "Pagumon",
+      "stage": "In-Training"
+    },
+    {
+      "name": "DemiDevimon",
+      "tree": "Pagumon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "Impmon",
+      "tree": "Pagumon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "Devimon",
+      "tree": "Pagumon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Musyamon",
+      "tree": "Pagumon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Vilemon",
+      "tree": "Pagumon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Wizardmon",
+      "tree": "Pagumon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Myotismon",
+      "tree": "Pagumon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Vajramon",
+      "tree": "Pagumon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "LadyDevimon",
+      "tree": "Pagumon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Mummymon",
+      "tree": "Pagumon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "VNMyotismon",
+      "tree": "Pagumon",
+      "stage": "Mega",
+      "rank":"A+"
+    },
+    {
+      "name": "Zanbamon",
+      "tree": "Pagumon",
+      "stage": "Mega",
+      "rank":"D"
+    },
+    {
+      "name": "Boltmon",
+      "tree": "Pagumon",
+      "stage": "Mega",
+      "rank":"D+"
+    },
+    {
+      "name": "Lilithmon",
+      "tree": "Pagumon",
+      "stage": "Mega",
+      "rank": "S"
+    },
+    {
+      "name": "Pharaohmon",
+      "tree": "Pagumon",
+      "stage": "Mega",
+      "rank": "S+"
+    },
+    {
+      "name": "Poyomon",
+      "tree": "Poyomon",
+      "stage": "In-Training"
+    },
+    {
+      "name": "Gomamon",
+      "tree": "Poyomon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "Kamemon",
+      "tree": "Poyomon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "Crabmon",
+      "tree": "Poyomon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "Ikkakumon",
+      "tree": "Poyomon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Gawappamon",
+      "tree": "Poyomon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Tortamon",
+      "tree": "Poyomon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Ebidramon",
+      "tree": "Poyomon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Zudomon",
+      "tree": "Poyomon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Shaujinmon",
+      "tree": "Poyomon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Brachiomon",
+      "tree": "Poyomon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Vikemon",
+      "tree": "Poyomon",
+      "stage": "Mega",
+      "rank":"D"
+    },
+    {
+      "name": "JumboGamemon",
+      "tree": "Poyomon",
+      "stage": "Mega",
+      "rank":"C-"
+    },
+    {
+      "name": "Preciomon",
+      "tree": "Poyomon",
+      "stage": "Mega",
+      "rank":"D"
+    },
+    {
+      "name": "Puttimon",
+      "tree": "Puttimon",
+      "stage": "In-Training"
+    },
+    {
+      "name": "Salamon",
+      "tree": "Puttimon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "PwnChessmonW",
+      "tree": "Puttimon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "Kudamon",
+      "tree": "Puttimon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "Gatomon",
+      "tree": "Puttimon",
+      "stage": "Champion"
+    },
+    {
+      "name": "KChessmonW",
+      "tree": "Puttimon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Starmon",
+      "tree": "Puttimon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Reppamon",
+      "tree": "Puttimon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Angewomon",
+      "tree": "Puttimon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "BPChessmon",
+      "tree": "Puttimon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "SPStarmon",
+      "tree": "Puttimon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Tyilinmon",
+      "tree": "Puttimon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Ophanimon",
+      "tree": "Puttimon",
+      "stage": "Mega",
+      "rank":"B+"
+    },
+    {
+      "name": "KingChessmon",
+      "tree": "Puttimon",
+      "stage": "Mega",
+      "rank":"D+"
+    },
+    {
+      "name": "Sleipmon",
+      "tree": "Puttimon",
+      "stage": "Mega",
+      "rank":"A"
+    },
+    {
+      "name": "SnowAgumon",
+      "tree": "SnowAgumon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "Seadramon",
+      "tree": "SnowAgumon",
+      "stage": "Champion"
+    },
+    {
+      "name": "MegaSeadramon",
+      "tree": "SnowAgumon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "MetalSeadramon",
+      "tree": "SnowAgumon",
+      "stage": "Mega",
+      "rank":"D"
+    },
+    {
+      "name": "GigaSeadramon",
+      "tree": "SnowAgumon",
+      "stage": "Mega",
+      "rank":"C-"
+    },
+    {
+      "name": "SnowGoburimon",
+      "tree": "SnowGoburimon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "Hyogamon",
+      "tree": "SnowGoburimon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Frigimon",
+      "tree": "SnowGoburimon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Solarmon",
+      "tree": "Solarmon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "Clockmon",
+      "tree": "Solarmon",
+      "stage": "Champion"
+    },
+    {
+      "name": "BomberNanimon",
+      "tree": "Solarmon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Knightmon",
+      "tree": "Solarmon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Giromon",
+      "tree": "Solarmon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Alphamon",
+      "tree": "Solarmon",
+      "stage": "Mega",
+      "rank": "S+"
+    },
+    {
+      "name": "Sunmon",
+      "tree": "Sunmon",
+      "stage": "In-Training"
+    },
+    {
+      "name": "Coronamon",
+      "tree": "Sunmon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "Firamon",
+      "tree": "Sunmon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Flaremon",
+      "tree": "Sunmon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Apollomon",
+      "tree": "Sunmon",
+      "stage": "Mega",
+      "rank":"D"
+    },
+    {
+      "name": "Syakomon",
+      "tree": "Syakomon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "KaraNumemon",
+      "tree": "Syakomon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Coelamon",
+      "tree": "Syakomon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Shellmon",
+      "tree": "Syakomon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Digitamamon",
+      "tree": "Syakomon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Scorpiomon",
+      "tree": "Syakomon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Lampmon",
+      "tree": "Syakomon",
+      "stage": "Mega",
+      "rank":"C-"
+    },
+    {
+      "name": "Devitamamon",
+      "tree": "Syakomon",
+      "stage": "Mega",
+      "rank":"A+"
+    },
+    {
+      "name": "Pukumon",
+      "tree": "Syakomon",
+      "stage": "Mega",
+      "rank":"D"
+    },
+    {
+      "name": "Tanemon",
+      "tree": "Tanemon",
+      "stage": "In-Training"
+    },
+    {
+      "name": "Palmon",
+      "tree": "Tanemon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "Aruraumon",
+      "tree": "Tanemon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "Floramon",
+      "tree": "Tanemon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "Togemon",
+      "tree": "Tanemon",
+      "stage": "Champion"
+    },
+    {
+      "name": "MoriShellmon",
+      "tree": "Tanemon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Weedmon",
+      "tree": "Tanemon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Woodmon",
+      "tree": "Tanemon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Veggiemon",
+      "tree": "Tanemon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Lillymon",
+      "tree": "Tanemon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Blossomon",
+      "tree": "Tanemon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Cherrymon",
+      "tree": "Tanemon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Tokomon",
+      "tree": "Tokomon",
+      "stage": "In-Training"
+    },
+    {
+      "name": "Patamon",
+      "tree": "Tokomon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "Falcomon",
+      "tree": "Tokomon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "DFalcomon",
+      "tree": "Tokomon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "Angemon",
+      "tree": "Tokomon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Peckmon",
+      "tree": "Tokomon",
+      "stage": "Champion"
+    },
+    {
+      "name": "MAngemon",
+      "tree": "Tokomon",
+      "stage": "Ultimate",
+      "rank":"D"
+    },
+    {
+      "name": "Yatagaramon",
+      "tree": "Tokomon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "SLAngemon",
+      "tree": "Tokomon",
+      "stage": "Mega",
+      "rank":"D"
+    },
+    {
+      "name": "Seraphimon",
+      "tree": "Tokomon",
+      "stage": "Mega",
+      "rank":"B+" 
+    },
+    {
+      "name": "Ravemon",
+      "tree": "Tokomon",
+      "stage": "Mega",
+      "rank":"D"
+    },
+    {
+      "name": "ToyAgumon",
+      "tree": "ToyAgumon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "Tankmon",
+      "tree": "ToyAgumon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Deputymon",
+      "tree": "ToyAgumon",
+      "stage": "Champion"
+    },
+    {
+      "name": "MetalMamemon",
+      "tree": "ToyAgumon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "MameTyramon",
+      "tree": "ToyAgumon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "PrinceMamemon",
+      "tree": "ToyAgumon",
+      "stage": "Mega",
+      "rank":"D"
+    },
+    {
+      "name": "ToyAgumonBlack",
+      "tree": "ToyAgumonBlack",
+      "stage": "Rookie"
+    },
+    {
+      "name": "Mekanorimon",
+      "tree": "ToyAgumonBlack",
+      "stage": "Champion"
+    },
+    {
+      "name": "EXTyrannomon",
+      "tree": "ToyAgumonBlack",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Ghoulmon",
+      "tree": "ToyAgumonBlack",
+      "stage": "Mega",
+      "rank":"D"
+    },
+    {
+      "name": "Tsumemon",
+      "tree": "Tsumemon",
+      "stage": "In-Training"
+    },
+    {
+      "name": "Keramon",
+      "tree": "Tsumemon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "Dracmon",
+      "tree": "Tsumemon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "Kurisarimon",
+      "tree": "Tsumemon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Sangloupmon",
+      "tree": "Tsumemon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Infermon",
+      "tree": "Tsumemon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Argomon (Ultimate)",
+      "tree": "Tsumemon",
+      "stage": "Ultimate",
+      "rank": "S"
+    },
+    {
+      "name": "Matadormon",
+      "tree": "Tsumemon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Diaboromon",
+      "tree": "Tsumemon",
+      "stage": "Mega",
+      "rank":"C-"
+    },
+    {
+      "name": "Argomon (Mega)",
+      "tree": "Tsumemon",
+      "stage": "Mega",
+      "rank":"S++"
+    },
+    {
+      "name": "Piedmon",
+      "tree": "Tsumemon",
+      "stage": "Mega",
+      "rank":"A-"
+    },
+    {
+      "name": "Tsunomon",
+      "tree": "Tsunomon",
+      "stage": "In-Training"
+    },
+    {
+      "name": "Gabumon",
+      "tree": "Tsunomon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "Goburimon",
+      "tree": "Tsunomon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "Garurumon",
+      "tree": "Tsunomon",
+      "stage": "Champion"
+    },
+    {
+      "name": "JMojyamon",
+      "tree": "Tsunomon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Ogremon",
+      "tree": "Tsunomon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Minotarumon",
+      "tree": "Tsunomon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Nanimon",
+      "tree": "Tsunomon",
+      "stage": "Champion"
+    },
+    {
+      "name": "WGarurumon",
+      "tree": "Tsunomon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "WGarurumonB",
+      "tree": "Tsunomon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Etemon",
+      "tree": "Tsunomon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "MGarurumon",
+      "tree": "Tsunomon",
+      "stage": "Mega",
+      "rank":"D"
+    },
+    {
+      "name": "Gulfmon",
+      "tree": "Tsunomon",
+      "stage": "Mega",
+      "rank":"A"
+    },
+    {
+      "name": "MetalEtemon",
+      "tree": "Tsunomon",
+      "stage": "Mega",
+      "rank":"D"
+    },
+    {
+      "name": "Wanyamon",
+      "tree": "Wanyamon",
+      "stage": "In-Training"
+    },
+    {
+      "name": "Gaomon",
+      "tree": "Wanyamon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "Kumamon",
+      "tree": "Wanyamon",
+      "stage": "Rookie"
+    },
+    {
+      "name": "Gaogamon",
+      "tree": "Wanyamon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Leomon",
+      "tree": "Wanyamon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Grizzmon",
+      "tree": "Wanyamon",
+      "stage": "Champion"
+    },
+    {
+      "name": "Mojyamon",
+      "tree": "Wanyamon",
+      "stage": "Champion"
+    },
+    {
+      "name": "MGaogamon",
+      "tree": "Wanyamon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "GrapLeomon",
+      "tree": "Wanyamon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Monzaemon",
+      "tree": "Wanyamon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Pandamon",
+      "tree": "Wanyamon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Mammothmon",
+      "tree": "Wanyamon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "MRGaogamon",
+      "tree": "Wanyamon",
+      "stage": "Mega"
+    },
+    {
+      "name": "DMGaogamon",
+      "tree": "Wanyamon",
+      "stage": "Mega",
+      "rank":"D"
+    },
+    {
+      "name": "SaberLeomon",
+      "tree": "Wanyamon",
+      "stage": "Mega",
+      "rank":"B-"
+    },
+    {
+      "name": "Babamon",
+      "tree": "Wanyamon",
+      "stage": "Mega",
+      "rank":"D+"
+    },
+    {
+      "name": "SMammothmon",
+      "tree": "Wanyamon",
+      "stage": "Mega",
+      "rank":"D+"
+    },
+    {
+      "name": "LucemonFM",
+      "tree": "LucemonFM",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Creepymon",
+      "tree": "LucemonFM",
+      "stage": "Mega",
+      "rank":"C"
+    },
+    {
+      "name": "Paildramon",
+      "tree": "Paildramon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "IPDramonDM",
+      "tree": "Paildramon",
+      "stage": "Mega",
+      "rank":"C-"
+    },
+    {
+      "name": "IPDramonFM",
+      "tree": "Paildramon",
+      "stage": "Mega",
+      "rank": "S+"
+    },
+    {
+      "name": "Silphymon",
+      "tree": "Silphymon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Valkyrimon",
+      "tree": "Silphymon",
+      "stage": "Mega",
+      "rank":"D+"
+    },
+    {
+      "name": "Dragomon",
+      "tree": "Dragomon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Neptunemon",
+      "tree": "Dragomon",
+      "stage": "Mega",
+      "rank":"A+"
+    },
+    {
+      "name": "Vademon",
+      "tree": "Vademon",
+      "stage": "Ultimate"
+    },
+    {
+      "name": "Ebemon",
+      "tree": "Vademon",
+      "stage": "Mega",
+      "rank":"D"
+    }
+  ]
+}

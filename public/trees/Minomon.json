@@ -1,0 +1,120 @@
+{
+  "In-Training":[
+    {
+      "name":"Minomon",
+      "requirements":["LV 3"]
+    }
+  ],
+  "Rookie":[
+    {
+      "name":"Tentomon",
+      "requirements":["LV 13","DEF 50"]
+    },
+    {
+      "name":"Wormmon",
+      "requirements":["LV 10","Friendship 50%"]
+    },
+    {
+      "name":"Kunemon",
+      "requirements":["LV 7"]
+    }
+  ],
+  "Champion":[
+    {
+      "name":"Kabuterimon",
+      "requirements":["LV 21","INS 410"]
+    },
+    {
+      "name":"SYanmamon",
+      "requirements":["LV 18","DEF 90","INS 250"]
+    },
+    {
+      "name":"Stingmon",
+      "requirements":["LV 23","DEF 110","SPD 115"]
+    },
+    {
+      "name":"Snimon",
+      "requirements":["LV 19","ATK 90"]
+    },
+    {
+      "name":"Yanmamon",
+      "requirements":["LV 18","SPD 75","INS 250"]
+    },
+    {
+      "name":"Flymon",
+      "requirements":["LV 19","INS 500"]
+    },
+    {
+      "name":"Sukamon",
+      "requirements":["LV 18","EX 1500"]
+    }
+  ],
+  "Ultimate":[
+    {
+      "name":"MKabuterimon R",
+      "requirements":["LV 36","Friendship 80%","SPT 170"]
+    },
+    {
+      "name":"MKabuterimon",
+      "requirements":["LV 33","SPT 140"]
+    },
+    {
+      "name":"N/A",
+      "requirements":[]
+    },
+    {
+      "name":"N/A",
+      "requirements":[]
+    },
+    {
+      "name":"N/A",
+      "requirements":[]
+    },
+    {
+      "name":"N/A",
+      "requirements":[]
+    },
+    {
+      "name":"DinoBeemon",
+      "requirements":["LV 41","DRG 8800","gotDinobeemon"]
+    },
+    {
+      "name":"Garbagemon",
+      "requirements":["LV 35","ATK 170","MAC 5000"]
+    }
+  ],
+  "Mega":[
+    {
+      "name":"N/A",
+      "requirements":[]
+    },
+    {
+      "name":"N/A",
+      "requirements":[]
+    },
+    {
+      "name":"N/A",
+      "requirements":[]
+    },
+    {
+      "name":"N/A",
+      "requirements":[]
+    },
+    {
+      "name":"N/A",
+      "requirements":[]
+    },
+    {
+      "name":"N/A",
+      "requirements":[]
+    },
+    {
+      "name":"IPDramonDMB",
+      "requirements":["LV 50","ATK 315","DRG 20000"]
+    },
+    {
+      "name":"N/A",
+      "requirements":[]
+    }
+  ]
+}

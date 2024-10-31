@@ -1,0 +1,32 @@
+{
+  "In-Training": [
+    {
+      "name": "N/A",
+      "requirements": []
+    }
+  ],
+  "Rookie": [
+    {
+      "name": "N/A",
+      "requirements": []
+    }
+  ],
+  "Champion": [
+    {
+      "name": "N/A",
+      "requirements": []
+    }
+  ],
+  "Ultimate": [
+    {
+      "name": "LucemonFM",
+      "requirements": ["Lv40+","Species EXP12000+","Aptitude 50+"]
+    }
+  ],
+  "Mega": [
+    {
+      "name": "Creepymon",
+      "requirements": ["LV67","Attack 390","Dark EXP 50000"]
+    }
+  ]
+}

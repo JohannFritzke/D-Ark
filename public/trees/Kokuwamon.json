@@ -1,0 +1,31 @@
+{
+  "In-Training":[
+    {
+      "name":"N/A",
+      "requirements":[]
+    }
+  ],
+  "Rookie":[
+    {
+      "name":"Kokuwamon",
+      "requirements":["LV 9"]
+    }
+  ],
+  "Champion":[
+    {
+      "name":"TDBallmon",
+      "requirements":["LV 23","MAC 460"]
+    }
+  ],
+  "Ultimate":[
+    {
+      "name":"Mamemon",
+      "requirements":["LV 33","ATK 150","SPD 140"]
+    }
+  ],
+  "Mega":[{
+    "name":"N/A",
+    "requirements":[]
+  }
+]
+}
