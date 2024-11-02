@@ -1,56 +1,37 @@
-export function JogressTable({
-  name,
-  requirements,
-  dna,
-}: {
-  name: string;
+import { DigiCard } from "./DigiCard";
+
+interface props {
   requirements: string[];
   dna: { digimon1: string; digimon2: string }[];
-}) {
+  name: string;
+}
+
+export function JogressTable({ requirements, dna, name }: props) {
   return (
-    <table className="h-full">
-      <thead className="text-center">
-        <td className=" bg-gray-400/10 border-r">DNA Recipe</td>
-        <td className="bg-gray-400/10">Requirements</td>
-      </thead>
-      <tbody className="align-top bg-gray-400/10 mt-2">
-        <tr className="ml-2">
-          <td className=" pt-3 flex h-full justify-center">
-            <ul className="w-full flex flex-col items-center gap-2 ">
-              {dna.map((pair, index) => (
-                <li key={index} className="flex gap-2 items-center w-[80%] justify-center p-2 bg-gray-400/10 ">
-                  <div className="flex justify-center items-center gap-1">
-                    <img
-                      src={`/digimons_images/${pair.digimon1}.png`}
-                      alt=""
-                      className="w-10"
-                    />
-                    {pair.digimon1}
-                  </div>
-                  +
-                  <div className="flex justify-center items-center gap-1">
-                    {pair.digimon2}
-                    <img
-                      src={`/digimons_images/${pair.digimon2}.png`}
-                      alt=""
-                      className="w-10"
-                    />
-                  </div>
-                </li>
-              ))}
-            </ul>
-          </td>
-          <td className="border-l pt-3">
-            <div className="flex justify-center">
-              <ul>
-                {requirements.map((r, index) => (
-                  <li key={index}>{r}</li>
-                ))}
-              </ul>
-            </div>
-          </td>
-        </tr>
-      </tbody>
-    </table>
+    <div className="bg-gray-300/10 w-full h-full p-2 flex flex-col rounded">
+      <div className="flex gap-2 ">
+        <DigiCard name={name} className="bg-gray-800 border-0 rounded" nameHidden={true}/>
+        <div className="bg-gray-800 flex-1 flex flex-col text-center rounded p-2">
+          <span className="font-bold">Digmons Required</span>
+          <div className="text-sm flex flex-col items-center">
+            {dna.map((d, i) => (
+              <div className="bg-red-100/10 p-2 my-1 rounded grid grid-cols-3 max-w-full min-w-[70%]">
+                <span className="text-right underline">{d.digimon1}</span>
+                <span className="mx-2">+</span>
+                <span className="text-left underline">{d.digimon2}</span>
+              </div>
+            ))}
+          </div>
+        </div>
+      </div>
+      <div className="bg-gray-800 w-full h-full p-2 mt-2 flex flex-col items-center flex-1 rounded">
+        <span className="font-bold ">Requirements for Jogress</span>
+        <div className="flex gap-3 underline mt-2 bg-red-100/10 p-2 my-1 rounded">
+          {requirements.map((r, i) => (
+            <p key={i}>{r}</p>
+          ))}
+        </div>
+      </div>
+    </div>
   );
 }

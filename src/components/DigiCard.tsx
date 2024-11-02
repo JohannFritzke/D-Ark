@@ -1,16 +1,20 @@
-import { Ranker } from "./Ranker";
+import { Ranker } from "./Ranker/Ranker";
 interface DigiCardProps {
   name: string;
-  rank?: string; // rank é opcional
+  rank?: string;
+  className?:string
+  nameHidden?:boolean
 }
-export function DigiCard({ name, rank }: DigiCardProps) {
+export function DigiCard({ name, rank, className,nameHidden }: DigiCardProps) {
+
+
 
   return (
-    <div className="border w-[150px] h-[210px] cursor-pointer flex flex-col items-center justify-between bg-gray-400/10 relative overflow-hidden">
+    <div className={`rounded border w-[150px] h-[210px] cursor-pointer flex flex-col items-center justify-between bg-gray-400/10 relative overflow-hidden ${className}`}>
       {rank && (
-        <Ranker rank={rank}/>
+        <Ranker rank={rank} className="right-1 top-1"/>
       )}
-      <div className="w-full h-full flex justify-center items-center overflow-hidden absolute mt-1 p-2">
+      <div className="w-full h-full flex justify-center items-center overflow-hidden absolute p-2">
         <img
           src={`/digimons_images/${name}.png`}
           alt={name}
@@ -18,7 +22,7 @@ export function DigiCard({ name, rank }: DigiCardProps) {
         />
       </div>
       <span
-        className="mb-0 bg-gradient-to-r from-sky-500 to-indigo-500 w-full font-bold leading-tight h-6 flex justify-center items-center absolute bottom-0"
+        className={`${nameHidden && "hidden"} mb-0 bg-gradient-to-r from-sky-500 to-indigo-500 w-full font-bold leading-tight h-6 flex justify-center items-center absolute bottom-0`}
         style={{
           fontSize: `clamp(14px, ${150 / name.length}px, 16px)`,
         }}

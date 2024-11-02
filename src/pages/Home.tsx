@@ -51,23 +51,25 @@ export function Home() {
         <SearchBar onSearch={setSearchQuery} />
 
         <div className="flex flex-col w-full items-center mt-3">
-          <h2>Filters:</h2>
-          <div className="flex gap-2 mt-1">
-            {ALL_STAGES.map((stage) => (
-              <button
-                key={stage}
-                className={`rounded-lg p-1  ${
-                  selectedStage === stage ? "bg-orange-500" : "bg-purple-700"
-                }`}
-                onClick={() =>
-                  setSelectedStage((prevStage) =>
-                    prevStage === stage ? "" : stage
-                  )
-                }
-              >
-                {stage}
-              </button>
-            ))}
+          <div className="bg-gray-400/10 w-[33%] flex flex-col items-center p-1 pb-3 rounded gap-2">
+            <h2>Filters:</h2>
+            <div className="flex gap-2 mt-1">
+              {ALL_STAGES.map((stage) => (
+                <button
+                  key={stage}
+                  className={`rounded-lg p-1  ${
+                    selectedStage === stage ? "bg-orange-500" : "bg-purple-700"
+                  }`}
+                  onClick={() =>
+                    setSelectedStage((prevStage) =>
+                      prevStage === stage ? "" : stage
+                    )
+                  }
+                >
+                  {stage}
+                </button>
+              ))}
+            </div>
           </div>
         </div>
 
@@ -79,11 +81,8 @@ export function Home() {
                   <DigiCard name={digimon.name} rank={digimon.rank} />
                 </DialogTrigger>
                 <DialogContent className="bg-gray-800 border-gray-800 max-w-screen-lg h-[500px] max-h-[500px] overflow-auto scrollbar-hide flex flex-col gap-3">
-                  <DialogTitle className="flex gap-2 justify-center items-center h-[50px] bg-gray-400/20 mt-3 p-4">
-                    <img
-                      src={`/digimons_images/${digimon.tree}.png`}
-                      className="w-10"
-                    />
+                  <DialogTitle className="flex  justify-center items-center h-[20%] bg-gray-100/10 mt-3">
+                    <img src={`/digimons_images/${digimon.tree}.png`} />
                     {digimon.tree} Tree Evolution
                   </DialogTitle>
                   <DigiTable tree={digimon.tree} />

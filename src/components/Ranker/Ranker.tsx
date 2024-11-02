@@ -1,4 +1,4 @@
-import "./components.css";
+import "./ranker.css";
 
 interface props{
   rank: string;
@@ -11,9 +11,9 @@ export function Ranker({ rank, className}: props) {
     return `rank-${base}`;
   }
   return (
-    <div className="flex w-full text-[0.9rem] z-10">
+    <div className="text-[0.9rem] z-10">
       <span
-        className={`${setRankClass(rank)} bg-rank w-[60px] flex justify-center items-center rounded-sm absolute right-1 top-1 ${className}`}
+        className={`${setRankClass(rank)} bg-rank w-[60px] flex justify-center items-center rounded-sm absolute  ${className}`}
       >
         {rank}
       </span>

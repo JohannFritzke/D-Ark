@@ -34,7 +34,7 @@ export function DigiTable({ tree }: { tree: string }) {
       <thead className="">
         <tr className="">
           {ALL_STAGES.map((stage) => (
-            <th key={stage} className="border ">
+            <th key={stage} className="border">
               {stage}
             </th>
           ))}

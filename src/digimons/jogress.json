@@ -1147,7 +1147,8 @@
         "Lv46+",
         "Machine EXP14500+",
         "Spirit 280+"
-      ]
+      ],
+      "rank": "D"
     },
     {
       "name": "JumboGamemon",
@@ -1536,7 +1537,8 @@
         "Lv42+",
         "Holy EXP7000+",
         "Water EXP10000+"
-      ]
+      ],
+      "rank": "D"
     },
     {
       "name": "MarineDevimon",
@@ -2354,7 +2356,8 @@
         "Lv47+",
         "Holy EXP14000+",
         "Must have Befriended Kuzuhamon"
-      ]
+      ],
+      "rank": "D-"
     },
     {
       "name": "Sangloupmon",
@@ -2817,10 +2820,11 @@
         }
       ],
       "requirements": [
-        "",
-        "",
-        ""
-      ]
+        "Lv46+",
+        "Holy EXP10000+",
+        "Speed 280+"
+      ],
+      "rank": "D-"
     },
     {
       "name": "Valdurmon",
