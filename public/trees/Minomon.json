@@ -59,22 +59,6 @@
       "requirements":["LV 33","SPT 140"]
     },
     {
-      "name":"N/A",
-      "requirements":[]
-    },
-    {
-      "name":"N/A",
-      "requirements":[]
-    },
-    {
-      "name":"N/A",
-      "requirements":[]
-    },
-    {
-      "name":"N/A",
-      "requirements":[]
-    },
-    {
       "name":"DinoBeemon",
       "requirements":["LV 41","DRG 8800","gotDinobeemon"]
     },
@@ -85,36 +69,8 @@
   ],
   "Mega":[
     {
-      "name":"N/A",
-      "requirements":[]
-    },
-    {
-      "name":"N/A",
-      "requirements":[]
-    },
-    {
-      "name":"N/A",
-      "requirements":[]
-    },
-    {
-      "name":"N/A",
-      "requirements":[]
-    },
-    {
-      "name":"N/A",
-      "requirements":[]
-    },
-    {
-      "name":"N/A",
-      "requirements":[]
-    },
-    {
       "name":"IPDramonDMB",
       "requirements":["LV 50","ATK 315","DRG 20000"]
-    },
-    {
-      "name":"N/A",
-      "requirements":[]
     }
   ]
 }

@@ -47,39 +47,15 @@
       "requirements": ["LV 33","Friendship 80%","INS 3600"]
     },
     {
-      "name": "N/A",
-      "requirements": []
-    },
-    {
       "name": "Blossomon",
       "requirements": ["LV 34","ATK 140","AQN 3200"]
     },
     {
       "name": "Cherrymon",
       "requirements": ["LV 41","ATK 200","SPT 210"]
-    },
-    {
-      "name": "N/A",
-      "requirements": []
     }
   ],
   "Mega": [
-    {
-      "name": "N/A",
-      "requirements": []
-    },
-    {
-      "name": "N/A",
-      "requirements": []
-    },
-    {
-      "name": "N/A",
-      "requirements": []
-    },
-    {
-      "name": "N/A",
-      "requirements": []
-    },
     {
       "name": "N/A",
       "requirements": []

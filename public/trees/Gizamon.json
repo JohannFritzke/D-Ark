@@ -33,10 +33,6 @@
   ],
   "Mega":[
     {
-      "name":"N/A",
-      "requirements":[]
-    },
-    {
       "name":"Parasimon",
       "requirements":["LV 48","minAPT 52","Dark 8800"]
     }

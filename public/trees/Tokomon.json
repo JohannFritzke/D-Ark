@@ -27,10 +27,6 @@
     {
       "name": "Peckmon",
       "requirements": ["LV 20","SPD 100"]
-    },
-    {
-      "name": "N/A",
-      "requirements": []
     }
   ],
   "Ultimate": [
@@ -41,10 +37,6 @@
     {
       "name": "Yatagaramon",
       "requirements": ["LV 37","Friendship 80%","BRD 3500"]
-    },
-    {
-      "name": "N/A",
-      "requirements": []
     }
   ],
   "Mega": [
@@ -59,10 +51,6 @@
     {
       "name": "Ravemon",
       "requirements": ["LV 50","SPD 255","MAC 10000"]
-    },
-    {
-      "name": "N/A",
-      "requirements": []
     }
   ]
 }

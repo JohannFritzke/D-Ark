@@ -65,10 +65,6 @@
       "requirements": ["LV 50","MinAPT 55","MAC 13000"]
     },
     {
-      "name": "N/A",
-      "requirements": []
-    },
-    {
       "name": "Sleipmon",
       "requirements": ["LV65","ATK370","HOL 48000"]
     }

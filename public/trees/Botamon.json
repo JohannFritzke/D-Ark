@@ -45,10 +45,6 @@
     {
       "name":"Volcanomon",
       "requirements":["LV 36","ATK 160","DRK 3400"]
-    },
-    {
-      "name":"N/A",
-      "requirements":[]
     }
   ],
   "Mega":[
@@ -59,14 +55,6 @@
     {
       "name":"Machinedramon",
       "requirements":["LV 55","ATK 280","got MetalSeadramon"]
-    },
-    {
-      "name":"N/A",
-      "requirements":[]
-    },
-    {
-      "name":"N/A",
-      "requirements":[]
     }
   ]
 }

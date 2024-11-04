@@ -43,20 +43,12 @@
       "requirements": ["LV 35","SPD 170","BST 4500"]
     },
     {
-      "name": "N/A",
-      "requirements": []
-    },
-    {
       "name": "WGarurumonB",
       "requirements": ["LV 41","SPD 190","DRK 6500"]
     },
     {
       "name": "Etemon",
       "requirements": ["LV 34","SPT 135","BST 3800"]
-    },
-    {
-      "name": "N/A",
-      "requirements": []
     }
   ],
   "Mega": [
@@ -65,20 +57,12 @@
       "requirements": ["LV 52","Friendship 90%","gotGabumon"]
     },
     {
-      "name": "N/A",
-      "requirements": []
-    },
-    {
       "name": "Gulfmon",
       "requirements": ["LV 56","DRK 15000","BST 10000"]
     },
     {
       "name": "MetalEtemon",
       "requirements": ["LV 46","DEF 200","BST 10000"]
-    },
-    {
-      "name": "N/A",
-      "requirements": []
     }
   ]
 }

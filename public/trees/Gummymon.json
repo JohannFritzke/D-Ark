@@ -49,18 +49,6 @@
     {
       "name":"Piximon",
       "requirements":["LV 33","SPT 145","HOL 4300"]
-    },
-    {
-      "name":"N/A",
-      "requirements":[]
-    },
-    {
-      "name":"Taomon",
-      "requirements":["LV 36","Friend 80%","SPT 185"]
-    },
-    {
-      "name":"N/A",
-      "requirements":[]
     }
   ],
   "Mega":[
@@ -73,16 +61,8 @@
       "requirements":["LV 48","ATK 220","HOL 8000"]
     },
     {
-      "name":"N/A",
-      "requirements":[]
-    },
-    {
       "name":"Sakuyamon",
       "requirements":["LV 52","HOL 16000","got Kazuhamon"]
-    },
-    {
-      "name":"N/A",
-      "requirements":[]
     }
   ]
 }

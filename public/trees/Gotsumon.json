@@ -29,25 +29,9 @@
     {
       "name":"Meteormon",
       "requirements":["LV 37","DEF 210","SPD 175"]
-    },
-    {
-      "name":"N/A",
-      "requirements":[]
-    },
-    {
-      "name":"N/A",
-      "requirements":[]
     }
   ],
   "Mega": [
-    {
-      "name":"N/A",
-      "requirements":[]
-    },
-    {
-      "name":"N/A",
-      "requirements":[]
-    },
     {
       "name":"N/A",
       "requirements":[]

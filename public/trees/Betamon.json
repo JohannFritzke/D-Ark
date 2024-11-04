@@ -1,64 +1,69 @@
 {
-  "In-Training":[
+  "In-Training": [
     {
-      "name":"N/A",
-      "requirements":[]
+      "name": "N/A",
+      "requirements": []
     }
   ],
-  "Rookie":[
+  "Rookie": [
     {
-      "name":"Betamon",
-      "requirements":["LV 7"]
+      "name": "Betamon",
+      "requirements": [
+        "LV 7"
+      ]
     }
   ],
-  "Champion":[
+  "Champion": [
     {
-      "name":"Octomon",
-      "requirements":["LV 21","DEF 95","AQN 550"]
+      "name": "Octomon",
+      "requirements": [
+        "LV 21",
+        "DEF 95",
+        "AQN 550"
+      ]
     },
     {
-      "name":"Gesomon",
-      "requirements":["LV 21","ATK 95","AQN 550"]
+      "name": "Gesomon",
+      "requirements": [
+        "LV 21",
+        "ATK 95",
+        "AQN 550"
+      ]
     },
     {
-      "name":"Dolphmon",
-      "requirements":["LV 17","SPT 100","AQN 500"]
+      "name": "Dolphmon",
+      "requirements": [
+        "LV 17",
+        "SPT 100",
+        "AQN 500"
+      ]
     }
   ],
-  "Ultimate":[
+  "Ultimate": [
     {
-      "name":"N/A",
-      "requirements":[]
+      "name": "Whamon",
+      "requirements": [
+        "LV32",
+        "AQN 6000"
+      ]
     },
     {
-      "name":"N/A",
-      "requirements":[]
-    },
-    {
-      "name":"Whamon",
-      "requirements":["LV32","AQN 6000"]
-    },
-    {
-      "name":"Divermon",
-      "requirements":["LV 36","MAC 2900","gotDivermon"]
+      "name": "Divermon",
+      "requirements": [
+        "LV 36",
+        "MAC 2900",
+        "gotDivermon"
+      ]
     }
   ],
-  "Mega":[
+  "Mega": [
     {
-      "name":"N/A",
-      "requirements":[]
-    },
-    {
-      "name":"N/A",
-      "requirements":[]
-    },
-    {
-      "name":"MA Angemon",
-      "requirements":["LV 47","HOL 8000","AQN 13000"]
-    },
-    {
-      "name":"N/A",
-      "requirements":[]
+      "name": "MA Angemon",
+      "requirements": [
+        "LV 47",
+        "HOL 8000",
+        "AQN 13000"
+      ]
     }
   ]
 }

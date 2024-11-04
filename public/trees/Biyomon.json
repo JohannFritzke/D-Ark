@@ -35,10 +35,6 @@
     {
       "name":"Gryphonmon",
       "requirements":["LV 47","ATK 240","BST 8000"]
-    },
-    {
-      "name":"N/A",
-      "requirements":[]
     }
   ]
 }

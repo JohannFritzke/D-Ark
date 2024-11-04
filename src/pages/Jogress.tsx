@@ -80,9 +80,9 @@ export function Jogress() {
             {sortedDigimons.map((d) => (
               <Dialog key={d.name}>
                 <DialogTrigger>
-                  <DigiCard name={d.name} rank={d.rank} />
+                  <DigiCard name={d.name} rank={d.rank} className="bg-gray-400/10"/>
                 </DialogTrigger>
-                <DialogContent className="bg-gray-800 border-gray-800 max-w-screen-md h-[80%] flex flex-col overflow-auto scrollbar-hide">
+                <DialogContent className="bg-[#27272a] border-gray-800 max-w-screen-md h-[80%] flex flex-col overflow-auto scrollbar-hide">
                   <DialogTitle className="bg-gray-300/10 w-full h-[10%] mt-4 flex items-center p-2 relative rounded">
                     <span className="font-bold text-base ">
                       {d.name} - Jogress Evolution

@@ -35,10 +35,6 @@
     {
       "name": "PrinceMamemon",
       "requirements": ["LV 46","SPT 220","MAC 9300"]
-    },
-    {
-      "name": "N/A",
-      "requirements": []
     }
   ]
 }

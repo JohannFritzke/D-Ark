@@ -35,10 +35,6 @@
     {
       "name": "Alphamon",
       "requirements": ["LV 65","HOL 50000","gotClockmon"]
-    },
-    {
-      "name": "N/A",
-      "requirements": []
     }
   ]
 }

@@ -49,16 +49,12 @@
     {
       "name":"Brachiomon",
       "requirements":["LV 38","AQN 7500","got Brachiomon"]
-    },
-    {
-      "name":"N/A",
-      "requirements":[]
     }
   ],
   "Mega":[
     {
       "name":"Vikemon",
-      "requirements":["","",""]
+      "requirements":["LV 50","DEF 230","SPT230"]
     },
     {
       "name":"JumboGamemon",
@@ -67,10 +63,6 @@
     {
       "name":"Preciomon",
       "requirements":["LV 47","AQN 17500"]
-    },
-    {
-      "name":"N/A",
-      "requirements":[]
     }
   ]
 }

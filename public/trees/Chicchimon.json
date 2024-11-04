@@ -39,10 +39,6 @@
       "requirements":["LV 36","INS 4000"]
     },
     {
-      "name":"N/A",
-      "requirements":[]
-    },
-    {
       "name":"Sinduramon",
       "requirements":["LV 40","BRD 8000","gotSinduramon"]
     },
@@ -55,14 +51,6 @@
     {
       "name":"Phoenixmon",
       "requirements":["LV 52","HOL 11000","BRD 11000"]
-    },
-    {
-      "name":"N/A",
-      "requirements":[]
-    },
-    {
-      "name":"N/A",
-      "requirements":[]
     },
     {
       "name":"Eaglemon",

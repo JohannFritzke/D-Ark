@@ -67,10 +67,6 @@
       ]
     },
     {
-      "name": "N/A",
-      "requirements": []
-    },
-    {
       "name": "Cyberdramon",
       "requirements": [
         "LV38",
@@ -94,10 +90,6 @@
         "HOL 45000",
         "gotAirdramon"
       ]
-    },
-    {
-      "name": "N/A",
-      "requirements": []
     },
     {
       "name": "Justimon",

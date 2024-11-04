@@ -78,13 +78,13 @@ export function Home() {
             {sortedDigimons.map((digimon) => (
               <Dialog key={digimon.name}>
                 <DialogTrigger>
-                  <DigiCard name={digimon.name} rank={digimon.rank} />
+                  <DigiCard
+                    name={digimon.name}
+                    rank={digimon.rank}
+                    className="bg-gray-400/10"
+                  />
                 </DialogTrigger>
-                <DialogContent className="bg-gray-800 border-gray-800 max-w-screen-lg h-[500px] max-h-[500px] overflow-auto scrollbar-hide flex flex-col gap-3">
-                  <DialogTitle className="flex  justify-center items-center h-[20%] bg-gray-100/10 mt-3">
-                    <img src={`/digimons_images/${digimon.tree}.png`} />
-                    {digimon.tree} Tree Evolution
-                  </DialogTitle>
+                <DialogContent className="bg-[#27272a] border-gray-800 w-[90%] max-w-screen-xl h-[500px] overflow-auto scrollbar-hide flex flex-col gap-3">
                   <DigiTable tree={digimon.tree} />
                 </DialogContent>
               </Dialog>

@@ -73,10 +73,6 @@
       "requirements": ["LV 48","SPT 220","HOL 8000"]
     },
     {
-      "name": "N/A",
-      "requirements": []
-    },
-    {
       "name": "SMammothmon",
       "requirements": ["LV 49","DRK 6000","BST 8000"]
     }

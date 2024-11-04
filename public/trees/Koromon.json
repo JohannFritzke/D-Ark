@@ -23,10 +23,6 @@
     {
       "name": "Greymon",
       "requirements": ["LV 18","DRG 280"]
-    },
-    {
-      "name": "N/A",
-      "requirements": []
     }
   ],
   "Ultimate": [
@@ -37,10 +33,6 @@
     {
       "name": "MetalGreymon",
       "requirements": ["LV 34","Friend 70%","DRG 3000"]
-    },
-    {
-      "name": "N/A",
-      "requirements": []
     }
   ],
   "Mega": [
@@ -55,10 +47,6 @@
     {
       "name": "WarGreymon",
       "requirements": ["LV 52","Friend 90%","gotAgumon"]
-    },
-    {
-      "name": "N/A",
-      "requirements": []
     }
   ]
 }

@@ -1,0 +1,100 @@
+{
+  "armor":[
+    {
+      "name":"Kenkimon",
+      "digimon":"Armadillomon",
+      "egg":"Friendship DE",
+      "requirements":["Level 24+","Machine EXP 2300+"]
+    },
+    {
+      "name":"Seahomon",
+      "digimon":"Armadillomon",
+      "egg":"Light DE",
+      "requirements":["Level 27+","Dragon EXP 2700+"]
+    },
+    {
+      "name":"Toucanmon",
+      "digimon":"Hawkmon",
+      "egg":"Kindness DE",
+      "requirements":["Level 20+","Defense 105+"]
+    },
+    {
+      "name":"Allomon",
+      "digimon":"Hawkmon",
+      "egg":"Courage DE",
+      "requirements":["Level 21+","Attack 110+"]
+    },
+    {
+      "name":"Shurimon",
+      "digimon":"Hawkmon",
+      "egg":"Purity DE",
+      "requirements":["Level 22+","Insect/Plant EXP 800+"]
+    },
+    {
+      "name":"Pipismon",
+      "digimon":"Patamon",
+      "egg":"Love DE",
+      "requirements":["Level 21+","Speed 100+"]
+    },
+    {
+      "name":"Ponchomon",
+      "digimon":"Patamon",
+      "egg":"Purity DE",
+      "requirements":["Level 23+","Dark EXP 2000+"]
+    },
+    {
+      "name":"Prairiemon",
+      "digimon":"Patamon",
+      "egg":"Kindness DE",
+      "requirements":["Level 27+","Attack 135+"]
+    },
+    {
+      "name":"Magnamon",
+      "digimon":"Veemon",
+      "egg":"Miracles DE",
+      "requirements":["Level 40+","Holy EXP 10000+"]
+    },
+    {
+      "name":"Flamedramon",
+      "digimon":"Veemon",
+      "egg":"Courage DE",
+      "requirements":["Level 22+","Dragon EXP 2500+"]
+    },
+    {
+      "name":"Owlmon",
+      "digimon":"Wormmon",
+      "egg":"Love DE",
+      "requirements":["Level 21+","Spirit 110+"]
+    },
+    {
+      "name":"Shadramon",
+      "digimon":"Wormmon",
+      "egg":"Courage DE",
+      "requirements":["Level 30+","Dark EXP 6000+"]
+    },
+    {
+      "name":"Kongoumon",
+      "digimon":"Wormmon",
+      "egg":"Miracles DE",
+      "requirements":["Level 32+","Attack 190+"]
+    },
+    {
+      "name":"Tylomon",
+      "digimon":"Gatomon",
+      "egg":"Honesty DE",
+      "requirements":["Level 27+","Aquan EXP 2200+"]
+    },
+    {
+      "name":"Kabukimon",
+      "digimon":"Gatomon",
+      "egg":"Purity DE",
+      "requirements":["Level 31+","Insect/Plant EXP 2000+"]
+    },
+    {
+      "name":"Lynxmon",
+      "digimon":"Gatomon",
+      "egg":"Courage DE",
+      "requirements":["Level 29+","Speed 130+"]
+    }
+  ]
+}

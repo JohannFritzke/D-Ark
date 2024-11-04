@@ -10,7 +10,7 @@ export function DigiCard({ name, rank, className,nameHidden }: DigiCardProps) {
 
 
   return (
-    <div className={`rounded border w-[150px] h-[210px] cursor-pointer flex flex-col items-center justify-between bg-gray-400/10 relative overflow-hidden ${className}`}>
+    <div className={`card rounded border w-[150px] h-[210px] cursor-pointer flex flex-col items-center justify-between relative overflow-hidden ${className}`}>
       {rank && (
         <Ranker rank={rank} className="right-1 top-1"/>
       )}
@@ -22,7 +22,7 @@ export function DigiCard({ name, rank, className,nameHidden }: DigiCardProps) {
         />
       </div>
       <span
-        className={`${nameHidden && "hidden"} mb-0 bg-gradient-to-r from-sky-500 to-indigo-500 w-full font-bold leading-tight h-6 flex justify-center items-center absolute bottom-0`}
+        className={`${nameHidden && "hidden"} digiName mb-0 bg-gradient-to-r from-sky-500 to-indigo-500 w-full font-bold leading-tight h-6 flex justify-center items-center absolute bottom-0`}
         style={{
           fontSize: `clamp(14px, ${150 / name.length}px, 16px)`,
         }}

@@ -45,10 +45,6 @@
       "requirements":["LV 48","DRK 9000","gotGuilmon"]
     },
     {
-      "name":"N/A",
-      "requirements":[]
-    },
-    {
       "name":"Cannondramon",
       "requirements":["LV 47","ATK 255","MAC 12500"]
     }
