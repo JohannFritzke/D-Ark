@@ -83,7 +83,7 @@ export function Home() {
                     className="bg-gray-400/10"
                   />
                 </DialogTrigger>
-                <DialogContent className="bg-[#27272a] border-gray-800 w-[90%] max-w-screen-xl h-[500px] overflow-auto scrollbar-hide flex flex-col gap-3">
+                <DialogContent className="bg-[#27272a] border-gray-800 w-[90%] max-w-screen-xl h-[500px] flex flex-col gap-3">
                   <DigiTable tree={digimon.tree} />
                 </DialogContent>
               </Dialog>

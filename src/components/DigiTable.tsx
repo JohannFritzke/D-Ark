@@ -30,7 +30,7 @@ export function DigiTable({ tree }: { tree: string }) {
   }, [tree]);
 
   return (
-    <div className="grid grid-cols-5 gap-5 bg-gray-300/10 h-full rounded p-3 overflow-auto scrollbar-hide mt-3 ">
+    <div className="grid grid-cols-5 gap-5 bg-gray-300/10 h-full rounded overflow-auto scrollbar-hide p-3 mt-3 ">
       {ALL_STAGES.map((s, i) => (
         <div key={i} className="flex flex-col gap-2 relative">
           <p className="font-bold bg-[#27272a] rounded text-center">{s}</p>
@@ -40,12 +40,12 @@ export function DigiTable({ tree }: { tree: string }) {
                 <Accordion type="single" collapsible key={i}>
                   <AccordionItem
                     value={`item-${i + 1}`}
-                    className="border-0 w-full flex items-center relative p-2 gap-2 rounded bg-[#27272a]"
+                    className="border-0 w-full flex items-center  p-2 gap-2 rounded bg-[#27272a]"
                   >
                     <div>
                       <img
                         src={`/digimons_images/${d.name}.png`}
-                        className="w-full h-auto object-contain"
+                        className=""
                       />
                     </div>
                     <div className="w-full pr-1 ">
