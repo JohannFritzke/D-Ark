@@ -5,7 +5,6 @@ import {
   Dialog,
   DialogContent,
   DialogTrigger,
-  DialogTitle,
 } from "@/components/ui/dialog";
 
 import dataArmor from "../digimons/armor.json";

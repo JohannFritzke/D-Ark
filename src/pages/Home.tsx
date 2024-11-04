@@ -7,7 +7,6 @@ import {
   Dialog,
   DialogContent,
   DialogTrigger,
-  DialogTitle,
 } from "@/components/ui/dialog";
 
 import data from "../digimons/digimons.json";

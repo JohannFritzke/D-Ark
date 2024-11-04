@@ -15,7 +15,7 @@ export function JogressTable({ requirements, dna, name }: props) {
           <span className="font-bold">Digmons Required</span>
           <div className="text-sm flex flex-col items-center">
             {dna.map((d, i) => (
-              <div className="bg-gray-100/10 p-2 my-1 rounded grid grid-cols-3 max-w-full min-w-[70%]">
+              <div className="bg-gray-100/10 p-2 my-1 rounded grid grid-cols-3 max-w-full min-w-[70%]" key={i}>
                 <span className="text-right underline">{d.digimon1}</span>
                 <span className="mx-2">+</span>
                 <span className="text-left underline">{d.digimon2}</span>
